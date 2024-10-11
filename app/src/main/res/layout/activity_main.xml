@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent"> 
+ 
+    <!-- Экран с кнопкой "Начать" -->
+
+    <!-- Главное меню с двумя кнопками -->
+    <RelativeLayout
+        android:id="@+id/start_screen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_background_image"
+        android:visibility="visible">
+
+        <Button
+            android:id="@+id/start_button"
+            android:layout_width="164dp"
+            android:layout_height="71dp"
+            android:layout_centerInParent="true"
+            android:text="@string/start_button_text"
+            android:textSize="24sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/main_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/main_background_image"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/milky_way_button"
+            android:layout_width="286dp"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:text="@string/milky_way_button_text"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/magellan_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:text="@string/magellan_button_text"
+            android:textSize="24sp" />
+    </LinearLayout> 
+</RelativeLayout>
