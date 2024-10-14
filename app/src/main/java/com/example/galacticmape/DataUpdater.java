@@ -2,8 +2,8 @@ package com.example.galacticmape;
 
 public class DataUpdater {
 
-    private static final String MARKERS_URL = "https://raw.githubusercontent.com/AlesHill/Orion-Map/main/markersMilkyWay.json";
-    private static final String MAGISTRALS_URL = "https://raw.githubusercontent.com/AlesHill/Orion-Map/main/magiestrals.json";
+    private static final String MARKERS_URL = "https://github.com/AlesHill/Orion-Map/blob/main/app/src/main/assets/markersMilkyWay.json";
+    private static final String MAGISTRALS_URL = "https://github.com/AlesHill/Orion-Map/blob/main/app/src/main/assets/magiestralsMilkyWay.json";
 
     public static void updateData() {
         // Загрузка маркеров
