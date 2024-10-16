@@ -1,4 +1,18 @@
 {
+    "(5001, 6914)": {
+        "id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
+        "title": "Земля",
+        "system": "Солнечная Система",
+        "temperature_class": "умеренная",
+        "state_class": "морская",
+        "type_class": "",
+        "planet_class": "Терра",
+        "economy": "Экуменополис",
+        "owner": "Орион",
+        "corporation_influence": "Картана",
+        "marker_type": "Первичная",
+        "is_capital": true
+    },
     "(5482, 7136)": {
         "id": "e6d40e32-e98e-4f9b-af2d-917ff93c558d",
         "title": "Картана",

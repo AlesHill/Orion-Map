@@ -12,6 +12,8 @@ import android.util.Log;
 import androidx.core.content.res.ResourcesCompat;
 
 import com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView;
+
+import org.json.JSONException;
 import org.json.JSONObject;
 import java.util.Iterator;
 
@@ -52,6 +54,13 @@ public class CustomMapView extends SubsamplingScaleImageView {
         }
     }
 
+    // Метод для очистки карты
+    public void clear() {
+        magiestralsData = null;
+        markersData = null;
+        invalidate(); // Принудительная перерисовка
+    }
+
     public void setMagiestralsData(JSONObject magiestralsData) {
         this.magiestralsData = magiestralsData;
     }
@@ -60,8 +69,29 @@ public class CustomMapView extends SubsamplingScaleImageView {
         this.markersData = markersData;
     }
 
+    // Метод для загрузки магистралей
+    public void loadMagiestrals(String magiestralsJson) {
+        try {
+            magiestralsData = new JSONObject(magiestralsJson);
+            invalidate(); // Принудительно перерисовать карту
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
+
+    // Метод для загрузки маркеров
+    public void loadMarkers(String markersJson) {
+        try {
+            markersData = new JSONObject(markersJson);
+            invalidate(); // Принудительно перерисовать карту
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+    }
+
     private void drawMagiestrals(Canvas canvas) {
         try {
+
             Iterator<String> keys = magiestralsData.keys();
             while (keys.hasNext()) {
                 String key = keys.next();
@@ -83,6 +113,12 @@ public class CustomMapView extends SubsamplingScaleImageView {
                 // Преобразуем координаты в экранные
                 PointF startPosition = sourceToViewCoord(startX, startY);
                 PointF endPosition = sourceToViewCoord(endX, endY);
+
+                // Добавляем проверку на null
+                if (startPosition == null || endPosition == null) {
+                    Log.e("CustomMapView", "Invalid coordinates: start or end is null");
+                    continue;
+                }
 
                 // Определяем цвет линии в зависимости от типа магистрали
                 String magiestralType = magiestral.getString("magiestral_type");
@@ -126,6 +162,12 @@ public class CustomMapView extends SubsamplingScaleImageView {
 
                 // Преобразуем координаты изображения в экранные координаты
                 PointF markerPosition = sourceToViewCoord(x, y);
+
+                // Добавляем проверку на null
+                if (markerPosition == null) {
+                    Log.e("CustomMapView", "Invalid marker coordinates: null position");
+                    continue;
+                }
 
                 // Получаем параметры метки
                 String title = marker.getString("title");

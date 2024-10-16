@@ -18,9 +18,9 @@ import android.graphics.PointF;
 
 public class MapActivityMilkyWay extends AppCompatActivity {
 
+    private CustomMapView customMapView;
     private JSONObject magiestralsData;
     private JSONObject markersData;
-    private CustomMapView customMapView;
     private ArrayList<String> markerTitles;
 
     @SuppressLint("ClickableViewAccessibility")
@@ -28,6 +28,10 @@ public class MapActivityMilkyWay extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_map);
+
+        // Создание экземпляра JsonFileUpdater и вызов метода обновления
+        JsonFileUpdater jsonUpdater = new JsonFileUpdater(this);
+        jsonUpdater.updateJsonFiles();
 
         // Загружаем JSON с маркерами и магистралями
         try {
