@@ -45,5 +45,6 @@
             android:padding="20dp"
             android:text="@string/magellan_button_text"
             android:textSize="24sp" />
-    </LinearLayout> 
+
+    </LinearLayout>
 </RelativeLayout>
