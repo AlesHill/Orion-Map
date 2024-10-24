@@ -73,7 +73,7 @@ public class JsonFileUpdater {
     // Метод для полной перезагрузки карты
     private void reloadMap() {
         // Очистите данные карты (если нужно)
-        CustomMapView customMapView = ((Activity) context).findViewById(R.id.imageView);
+        CustomMapViewMilkyWay customMapView = ((Activity) context).findViewById(R.id.imageView);
         customMapView.clear(); // Очистите текущие данные карты (магистрали, маркеры и т.д.)
 
         // Перезагрузите данные из файлов

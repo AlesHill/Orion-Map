@@ -2,7 +2,19 @@
     <string name="app_name">Orion Mape</string>
     <string name="start_button_text">Начать</string>
     <string name="milky_way_button_text">Млечный Путь</string>
-    <string name="magellan_button_text">Магелланово Облако</string>
+    <string name="magellan_button_text">Большое Магелланово Облако</string>
     <string name="search_hint">Найти планету</string>
-    <string name="button_layer">Слой</string>
+    <string name="name">Название:</string>
+    <string name="system_name">Система:</string>
+    <string name="temperature_class">Температура:</string>
+    <string name="state_class">Состояние:</string>
+    <string name="type_class">Тип:</string>
+    <string name="planet_class">Класс:</string>
+    <string name="marker_information">Информация:</string>
+    <string name="economy">Экономика:</string>
+    <string name="owner">Гос.:</string>
+    <string name="corporation">Корп.:</string>
+    <string name="marker_type">Тип Метки:</string>
+    <string name="capital">Столица:</string>
+    <string name="back">Назад</string>
 </resources>

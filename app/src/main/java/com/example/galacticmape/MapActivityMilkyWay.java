@@ -18,7 +18,7 @@ import android.graphics.PointF;
 
 public class MapActivityMilkyWay extends AppCompatActivity {
 
-    private CustomMapView customMapView;
+    private CustomMapViewMilkyWay customMapView;
     private JSONObject magiestralsData;
     private JSONObject markersData;
     private ArrayList<String> markerTitles;
