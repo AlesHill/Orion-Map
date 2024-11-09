@@ -989,7 +989,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Содружество Звёзд",
-        "corporation_influence": "",
+        "corporation_influence": "Гос.Корп.",
         "marker_type": "Первичная",
         "is_capital": true
     },
@@ -1003,7 +1003,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": true
     },
@@ -1185,7 +1185,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Тени",
-        "corporation_influence": "",
+        "corporation_influence": "Шедоу",
         "marker_type": "Первичная",
         "is_capital": true
     },
@@ -1885,7 +1885,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Тени",
-        "corporation_influence": "",
+        "corporation_influence": "Шедоу",
         "marker_type": "Третичная",
         "is_capital": true
     },
@@ -7273,7 +7273,7 @@
         "state_class": "морская",
         "type_class": "мега",
         "planet_class": "Терра",
-        "economy": "Экуменополис",
+        "economy": "Отсутствует",
         "owner": "Отсутствует",
         "corporation_influence": "",
         "marker_type": "Первичная",
@@ -8325,7 +8325,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8339,7 +8339,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8353,7 +8353,7 @@
         "planet_class": "Карбония",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8367,7 +8367,7 @@
         "planet_class": "Карбония",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8381,7 +8381,7 @@
         "planet_class": "Карбония",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8395,7 +8395,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8409,7 +8409,7 @@
         "planet_class": "Аквария",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8423,7 +8423,7 @@
         "planet_class": "Карбония",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8437,7 +8437,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8451,7 +8451,7 @@
         "planet_class": "Феррия",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8465,7 +8465,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8479,7 +8479,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8493,7 +8493,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8507,7 +8507,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8521,7 +8521,7 @@
         "planet_class": "Феррия",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8535,7 +8535,7 @@
         "planet_class": "Карбония",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8549,7 +8549,7 @@
         "planet_class": "Феррия",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8563,7 +8563,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8577,7 +8577,7 @@
         "planet_class": "Карбония",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8591,7 +8591,7 @@
         "planet_class": "Аквария",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8605,7 +8605,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8619,7 +8619,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8633,7 +8633,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8647,7 +8647,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8661,7 +8661,7 @@
         "planet_class": "Аквария",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8675,7 +8675,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8689,7 +8689,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8703,7 +8703,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8717,7 +8717,7 @@
         "planet_class": "Карбония",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8731,7 +8731,7 @@
         "planet_class": "Карбония",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8745,7 +8745,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8759,7 +8759,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8773,7 +8773,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8787,7 +8787,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8801,7 +8801,7 @@
         "planet_class": "Карбония",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8815,7 +8815,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8829,7 +8829,7 @@
         "planet_class": "Карбония",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8843,7 +8843,7 @@
         "planet_class": "Карбония",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8857,7 +8857,7 @@
         "planet_class": "Феррия",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8871,7 +8871,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8885,7 +8885,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8899,7 +8899,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8913,7 +8913,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8927,7 +8927,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8941,7 +8941,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8955,7 +8955,7 @@
         "planet_class": "Феррия",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8969,7 +8969,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8983,7 +8983,7 @@
         "planet_class": "Феррия",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -8997,7 +8997,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9011,7 +9011,7 @@
         "planet_class": "Аквария",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9025,7 +9025,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9039,7 +9039,7 @@
         "planet_class": "Феррия",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9053,7 +9053,7 @@
         "planet_class": "Феррия",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9067,7 +9067,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9081,7 +9081,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9095,7 +9095,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9109,7 +9109,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9123,7 +9123,7 @@
         "planet_class": "Карбония",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9137,7 +9137,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9151,7 +9151,7 @@
         "planet_class": "Феррия",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9165,7 +9165,7 @@
         "planet_class": "Феррия",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9179,7 +9179,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9193,7 +9193,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9207,7 +9207,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9221,7 +9221,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9235,7 +9235,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9249,7 +9249,7 @@
         "planet_class": "Феррия",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9263,7 +9263,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9277,7 +9277,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Содружество Звёзд",
-        "corporation_influence": "",
+        "corporation_influence": "Гос.Корп.",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9291,7 +9291,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Содружество Звёзд",
-        "corporation_influence": "",
+        "corporation_influence": "Гос.Корп.",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -9305,7 +9305,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Содружество Звёзд",
-        "corporation_influence": "",
+        "corporation_influence": "Гос.Корп.",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -9319,7 +9319,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Содружество Звёзд",
-        "corporation_influence": "",
+        "corporation_influence": "Гос.Корп.",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9333,7 +9333,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Содружество Звёзд",
-        "corporation_influence": "",
+        "corporation_influence": "Гос.Корп.",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -9669,7 +9669,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9781,7 +9781,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9795,7 +9795,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -9809,7 +9809,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -9823,7 +9823,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -9837,7 +9837,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -9851,7 +9851,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -10033,7 +10033,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -10047,7 +10047,7 @@
         "planet_class": "Аквария",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -10061,7 +10061,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -10075,7 +10075,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -10089,7 +10089,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Первичная",
         "is_capital": false
     },
@@ -10103,7 +10103,7 @@
         "planet_class": "Карбония",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -10117,7 +10117,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Империя",
-        "corporation_influence": "Доксфор",
+        "corporation_influence": "Доксфорд",
         "marker_type": "Вторичная",
         "is_capital": false
     },

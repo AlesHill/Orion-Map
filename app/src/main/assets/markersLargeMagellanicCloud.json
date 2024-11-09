@@ -1,0 +1,16 @@
+{
+  "(6454, 8282)": {
+    "id": "9fb75bdb-sad0-4a57-9bee-3f6b545ae8cd",
+    "title": "Идус",
+    "system": "Система Идус",
+    "temperature_class": "умеренная",
+    "state_class": "озёрная",
+    "type_class": "суб",
+    "planet_class": "Терра",
+    "economy": "Отсутствует",
+    "owner": "Отсутствует",
+    "corporation_influence": "",
+    "marker_type": "Первичная",
+    "is_capital": false
+  }
+}

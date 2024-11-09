@@ -1,0 +1,2533 @@
+{
+  "Патрульные Эсминцы серии «Пента»":{
+    "Патрульный Эсминец типа «Пента»": {
+      "id": "s1-1",
+      "name": "Патрульный Эсминец типа «Пента»",
+      "class_ship": "Эсминец",
+      "subclass_ship": "",
+      "role": "Патрульный",
+      "type_ship": "«Пента-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Лёгкие Корветы серия «Бахтан»": {
+    "Лёгкий Корвет типа «Бахтан»": {
+      "id": "s2-1",
+      "name": "Лёгкий Корвет типа «Бахтан»",
+      "class_ship": "Корвет",
+      "subclass_ship": "Лёгкий",
+      "role": "",
+      "type_ship": "«Бахтан-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Транспортные Крейсера серии «Тина»": {
+    "Тяжёлый Транспортный Крейсер типа «Тина-1»": {
+      "id": "s3-1",
+      "name": "Тяжёлый Транспортный Крейсер типа «Тина-1»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Транспортный",
+      "type_ship": "«Тина-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s3-2",
+          "timeMultiplier": 0.4
+        },
+        {
+          "targetShipId": "s3-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s3-4",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Тяжёлый Транспортный Крейсер типа «Тина-2»": {
+      "id": "s3-2",
+      "name": "Тяжёлый Транспортный Крейсер типа «Тина-2»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Транспортный",
+      "type_ship": "«Тина-2»",
+      "version": "2 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s3-3",
+          "timeMultiplier": 0.4
+        },
+        {
+          "targetShipId": "s3-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s3-5",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Тяжёлый Транспортный Крейсер типа «Тина-3»": {
+      "id": "s3-3",
+      "name": "Тяжёлый Транспортный Крейсер типа «Тина-3»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Транспортный",
+      "type_ship": "«Тина-3»",
+      "version": "3 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s3-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s3-5",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Транспортный Крейсер типа «Тина-4»": {
+      "id": "s3-4",
+      "name": "Тяжёлый Транспортный Крейсер типа «Тина-4»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Транспортный",
+      "type_ship": "«Тина-4»",
+      "version": "4 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s3-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Транспортный Крейсер типа «Тина»": {
+      "id": "s3-5",
+      "name": "Тяжёлый Транспортный Крейсер типа «Тина»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Транспортный",
+      "type_ship": "«Тина-5»",
+      "version": "5 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+      ]
+    }
+  },
+  "Ударные Крейсера серии «Этюд»": {
+    "Ударный Крейсер типа «Этюд-1»": {
+      "id": "s4-1",
+      "name": "Ударный Крейсер типа «Этюд-1»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Этюд-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s4-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s4-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s4-4",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Крейсер типа «Этюд-2»": {
+      "id": "s4-2",
+      "name": "Ударный Крейсер типа «Этюд-2»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Этюд-2»",
+      "version": "2 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s4-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s4-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s4-5",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Крейсер типа «Этюд-3»": {
+      "id": "s4-3",
+      "name": "Ударный Крейсер типа «Этюд-3»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Этюд-3»",
+      "version": "3 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s4-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s4-5",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s4-6",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Крейсер типа «Этюд-4»": {
+      "id": "s4-4",
+      "name": "Ударный Крейсер типа «Этюд-4»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Этюд-4»",
+      "version": "4 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s4-5",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s4-6",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s4-7",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Крейсер типа «Этюд-5»": {
+      "id": "s4-5",
+      "name": "Ударный Крейсер типа «Этюд-5»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Этюд-5»",
+      "version": "5 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s4-6",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s4-7",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Ударный Крейсер типа «Этюд-6»": {
+      "id": "s4-6",
+      "name": "Ударный Крейсер типа «Этюд-6»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Этюд-6»",
+      "version": "6 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s4-7",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Ударный Крейсер типа «Этюд»": {
+      "id": "s4-7",
+      "name": "Ударный Крейсер типа «Этюд»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Этюд-7»",
+      "version": "7 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+      ]
+    }
+  },
+  "Ударные Авианосные Крейсера типа «Натюрморт»": {
+    "Ударный Авианосный Крейсер типа «Натюрморт-1»": {
+      "id": "s5-1",
+      "name": "Ударный Авианосный Крейсер типа «Натюрморт-1»",
+      "class_ship": "Авианосный Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Натюрморт-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s5-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s5-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s5-4",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Авианосный Крейсер типа «Натюрморт-2»": {
+      "id": "s5-2",
+      "name": "Ударный Авианосный Крейсер типа «Натюрморт-2»",
+      "class_ship": "Авианосный Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Натюрморт-2»",
+      "version": "2 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s5-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s5-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s5-5",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Авианосный Крейсер типа «Натюрморт-3»": {
+      "id": "s5-3",
+      "name": "Ударный Авианосный Крейсер типа «Натюрморт-3»",
+      "class_ship": "Авианосный Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Натюрморт-3»",
+      "version": "3 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s5-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s5-5",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s5-6",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Авианосный Крейсер типа «Натюрморт-4»": {
+      "id": "s5-4",
+      "name": "Ударный Авианосный Крейсер типа «Натюрморт-4»",
+      "class_ship": "Авианосный Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Натюрморт-4»",
+      "version": "4 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s5-5",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s5-6",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s5-7",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Ударный Авианосный Крейсер типа «Натюрморт-5»": {
+      "id": "s5-5",
+      "name": "Ударный Авианосный Крейсер типа «Натюрморт-5»",
+      "class_ship": "Авианосный Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Натюрморт-5»",
+      "version": "5 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s5-6",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s5-7",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Ударный Авианосный Крейсер типа «Натюрморт-6»": {
+      "id": "s5-6",
+      "name": "Ударный Авианосный Крейсер типа «Натюрморт-6»",
+      "class_ship": "Авианосный Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Натюрморт-6»",
+      "version": "6 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s5-7",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Ударный Авианосный Крейсер типа «Натюрморт»": {
+      "id": "s5-7",
+      "name": "Ударный Авианосный Крейсер типа «Натюрморт»",
+      "class_ship": "Авианосный Крейсер",
+      "subclass_ship": "",
+      "role": "Ударный",
+      "type_ship": "«Натюрморт-7»",
+      "version": "7 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+      ]
+    }
+  },
+  "Тяжёлые Исследовательские Крейсера серии «Аберхуд»": {
+    "Тяжёлый Исследовательски Крейсер типа «Аберхуд-1»": {
+      "id": "s6-1",
+      "name": "Тяжёлый Исследовательски Крейсер типа «Аберхуд-1»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Исследовательски",
+      "type_ship": "«Аберхуд-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1",
+        "1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s6-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s6-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s6-4",
+          "timeMultiplier": 1.5
+        }
+      ]
+    },
+    "Тяжёлый Исследовательски Крейсер типа «Аберхуд-2»": {
+      "id": "s6-2",
+      "name": "Тяжёлый Исследовательски Крейсер типа «Аберхуд-2»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Исследовательски",
+      "type_ship": "«Аберхуд-2»",
+      "version": "2 поколение",
+      "ownersName": [
+        "2",
+        "с1",
+        "1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s6-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s6-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Исследовательски Крейсер типа «Аберхуд-3»": {
+      "id": "s6-3",
+      "name": "Тяжёлый Исследовательски Крейсер типа «Аберхуд-3»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Исследовательски",
+      "type_ship": "«Аберхуд-3»",
+      "version": "3 поколение",
+      "ownersName": [
+        "2",
+        "с1",
+        "1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s6-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Исследовательски Крейсер типа «Аберхуд»": {
+      "id": "s6-4",
+      "name": "Тяжёлый Исследовательски Крейсер типа «Аберхуд»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Исследовательски",
+      "type_ship": "«Аберхуд-4»",
+      "version": "4 поколение",
+      "ownersName": [
+        "2",
+        "с1",
+        "1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s6-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s7-1",
+          "timeMultiplier": 0.8
+        }
+      ]
+    }
+  },
+  "Тяжёлые Исследовательские Крейсера серии «Азазель»":{
+    "Тяжёлый Исследовательски Крейсер типа «Азазель»": {
+      "id": "s7-1",
+      "name": "Тяжёлый Исследовательски Крейсер типа «Азазель»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "Исследовательски",
+      "type_ship": "«Азазель-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1",
+        "1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s6-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    }
+  },
+  "Тяжёлые Крейсера серии «Герой»": {
+    "Тяжёлый Крейсер типа «Герой-1»": {
+      "id": "s8-1",
+      "name": "Тяжёлый Крейсер типа «Герой-1»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Герой-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s8-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s8-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s8-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Герой-2»": {
+      "id": "s8-2",
+      "name": "Тяжёлый Крейсер типа «Герой-2»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Герой-2»",
+      "version": "2 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s8-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s8-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s8-5",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Герой-3»": {
+      "id": "s8-3",
+      "name": "Тяжёлый Крейсер типа «Герой-3»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Герой-3»",
+      "version": "3 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s8-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s8-5",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s8-6",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Герой-4»": {
+      "id": "s8-4",
+      "name": "Тяжёлый Крейсер типа «Герой-4»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Герой-4»",
+      "version": "4 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s8-5",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s8-6",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s8-7",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Герой-5»": {
+      "id": "s8-5",
+      "name": "Тяжёлый Крейсер типа «Герой-5»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Герой-5»",
+      "version": "5 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s8-6",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s8-7",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Герой-6»": {
+      "id": "s8-6",
+      "name": "Тяжёлый Крейсер типа «Герой-6»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Герой-6»",
+      "version": "6 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s8-7",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Герой»": {
+      "id": "s8-7",
+      "name": "Тяжёлый Крейсер типа «Герой»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Герой-7»",
+      "version": "7 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": []
+    }
+  },
+  "Лёгкие Крейсерские Линкоры серии «Кобра»": {
+    "Лёгкий Крейсерский Линкор типа «Кобра-1»": {
+      "id": "s9-1",
+      "name": "Лёгкий Крейсерский Линкор типа «Кобра-1»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Лёгкий",
+      "role": "Крейсерский",
+      "type_ship": "«Кобра-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s9-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s9-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s9-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Лёгкий Крейсерский Линкор типа «Кобра-2»": {
+      "id": "s9-2",
+      "name": "Лёгкий Крейсерский Линкор типа «Кобра-2»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Лёгкий",
+      "role": "Крейсерский",
+      "type_ship": "«Кобра-2»",
+      "version": "2 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s9-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s9-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s9-5",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Лёгкий Крейсерский Линкор типа «Кобра-3»": {
+      "id": "s9-3",
+      "name": "Лёгкий Крейсерский Линкор типа «Кобра-3»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Лёгкий",
+      "role": "Крейсерский",
+      "type_ship": "«Кобра-3»",
+      "version": "3 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s9-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s9-5",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s9-6",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Лёгкий Крейсерский Линкор типа «Кобра-4»": {
+      "id": "s9-4",
+      "name": "Лёгкий Крейсерский Линкор типа «Кобра-4»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Лёгкий",
+      "role": "Крейсерский",
+      "type_ship": "«Кобра-4»",
+      "version": "4 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s9-5",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s9-6",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s9-7",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Лёгкий Крейсерский Линкор типа «Кобра-5»": {
+      "id": "s9-5",
+      "name": "Лёгкий Крейсерский Линкор типа «Кобра-5»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Лёгкий",
+      "role": "Крейсерский",
+      "type_ship": "«Кобра-5»",
+      "version": "5 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s9-6",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s9-7",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Лёгкий Крейсерский Линкор типа «Кобра-6»": {
+      "id": "s9-6",
+      "name": "Лёгкий Крейсерский Линкор типа «Кобра-6»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Лёгкий",
+      "role": "Крейсерский",
+      "type_ship": "«Кобра-6»",
+      "version": "6 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s9-7",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Лёгкий Крейсерский Линкор типа «Кобра»": {
+      "id": "s9-7",
+      "name": "Лёгкий Крейсерский Линкор типа «Кобра»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Лёгкий",
+      "role": "Крейсерский",
+      "type_ship": "«Кобра-7»",
+      "version": "7 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+      ]
+    }
+  },
+  "Тяжёлые Линкоры серии «Женев»": {
+    "Тяжёлый Линкор типа «Женев»": {
+      "id": "s10-1",
+      "name": "Тяжёлый Линкор типа «Женев»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Женев»",
+      "version": "1 поколение",
+      "ownersName": ["2", "с1", "c7"],
+      "upgrades": [
+      ]
+    }
+  },
+  "Тяжёлые Авианесущие Линкоры серии «Сан-Диего»": {
+    "Тяжёлый Авианесущий Линкор типа «Сан-Диего»": {
+      "id": "s11-1",
+      "name": "Тяжёлый Авианесущий Линкор типа «Сан-Диего»",
+      "class_ship": "Авианосный Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Сан-Диего»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+      ]
+    }
+  },
+  "Тяжёлые Линкоры серии «Задира»": {
+    "Тяжёлый Линкор типа «Задира-1»": {
+      "id": "s12-1",
+      "name": "Тяжёлый Линкор типа «Задира-1»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Задира-1»",
+      "version": "1 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s12-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s12-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s12-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Задира-2»": {
+      "id": "s12-2",
+      "name": "Тяжёлый Линкор типа «Задира-2»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Задира-2»",
+      "version": "2 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s12-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s12-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s12-5",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Задира-3»": {
+      "id": "s12-3",
+      "name": "Тяжёлый Линкор типа «Задира-3»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Задира-3»",
+      "version": "3 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s12-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s12-5",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s12-6",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Задира-4»": {
+      "id": "s12-4",
+      "name": "Тяжёлый Линкор типа «Задира-4»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Задира-4»",
+      "version": "4 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s12-5",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s12-6",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s12-7",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Задира-5»": {
+      "id": "s12-5",
+      "name": "Тяжёлый Линкор типа «Задира-5»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Задира-5»",
+      "version": "5 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s12-6",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s12-7",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Задира-6»": {
+      "id": "s12-6",
+      "name": "Тяжёлый Линкор типа «Задира-6»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Задира-6»",
+      "version": "6 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": [
+        {
+          "targetShipId": "s12-7",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Задира»": {
+      "id": "s12-7",
+      "name": "Тяжёлый Линкор типа «Задира»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Задира-7»",
+      "version": "7 поколение",
+      "ownersName": [
+        "2",
+        "с1"
+      ],
+      "upgrades": []
+    }
+  },
+  "Тяжёлые Авианосные Дредноуты типа «Лума»": {
+    "Тяжёлый Авианосный Дредноут типа «Лума-1»": {
+      "id": "s13-1",
+      "name": "Тяжёлый Авианосный Дредноут типа «Лума-1»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Лума-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s13-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s13-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s13-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Дредноут типа «Лума-2»": {
+      "id": "s13-2",
+      "name": "Тяжёлый Авианосный Дредноут типа «Лума-2»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Лума-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s13-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s13-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s13-5",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Дредноут типа «Лума-3»": {
+      "id": "s13-3",
+      "name": "Тяжёлый Авианосный Дредноут типа «Лума-3»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Лума-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s13-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s13-5",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s13-6",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Дредноут типа «Лума-4»": {
+      "id": "s13-3",
+      "name": "Тяжёлый Авианосный Дредноут типа «Лума-4»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Лума-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s13-5",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s13-6",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s13-7",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Дредноут типа «Лума-5»": {
+      "id": "s13-5",
+      "name": "Тяжёлый Авианосный Дредноут типа «Лума-5»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Лума-5»",
+      "version":"5 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s13-6",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s13-7",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Дредноут типа «Лума-6»": {
+      "id": "s13-6",
+      "name": "Тяжёлый Авианосный Дредноут типа «Лума-6»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Лума-6»",
+      "version":"6 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s13-7",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Дредноут типа «Лума»": {
+      "id": "s13-7",
+      "name": "Тяжёлый Авианосный Дредноут типа «Лума»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Лума-7»",
+      "version":"7 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s14-1",
+          "timeMultiplier": 0.8
+        }
+      ]
+    }
+  },
+  "Тяжёлые Рельсотронные Авианосные Дредноуты серии «Лума-Рел»": {
+    "Тяжёлый Рельсотронный Авианосный Дредноут типа «Лума-Рел»": {
+      "id": "s14-1",
+      "name": "Тяжёлый Рельсотронный Авианосный Дредноут типа «Лума-Рел»",
+      "class_ship": "Авианосный Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "Рельсовый",
+      "type_ship": "«Лума-Рел-1»",
+      "version": "1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s13-7",
+          "timeMultiplier": 0.8
+        }
+      ]
+    }
+  },
+  "Дредноуты серии «Элитум»": {
+    "Дредноут типа «Элитум-1»": {
+      "id": "s15-1",
+      "name": "Дредноут типа «Элитум-1»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Элитум-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s15-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s15-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s15-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Дредноут типа «Элитум-2»": {
+      "id": "s15-2",
+      "name": "Дредноут типа «Элитум-2»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Элитум-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s15-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s15-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Дредноут типа «Элитум-3»": {
+      "id": "s15-3",
+      "name": "Дредноут типа «Элитум-3»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Элитум-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s15-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Дредноут типа «Элитум»": {
+      "id": "s15-4",
+      "name": "Дредноут типа «Элитум»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Элитум-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Дредноуты серии «Милиум»": {
+    "Тяжёлый Дредноут типа «Милиум-1»": {
+      "id": "s16-1",
+      "name": "Тяжёлый Дредноут типа «Милиум-1»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Милиум-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s16-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s16-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s16-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Дредноут типа «Милиум-2»": {
+      "id": "s16-2",
+      "name": "Тяжёлый Дредноут типа «Милиум-2»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Милиум-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s16-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s16-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Дредноут типа «Милиум-3»": {
+      "id": "s16-3",
+      "name": "Тяжёлый Дредноут типа «Милиум-3»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Милиум-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s16-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Дредноут типа «Милиум»": {
+      "id": "s16-4",
+      "name": "Тяжёлый Дредноут типа «Милиум»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Милиум-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Лёгкие Титаны типа «Джет»": {
+    "Лёгкий Титан типа «Джет-1»": {
+      "id": "s42-1",
+      "name": "Лёгкий Титан типа «Джет-1»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Лёгкий",
+      "role": "",
+      "type_ship": "«Джет-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s42-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s42-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s42-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Лёгкий Титан типа «Джет-2»": {
+      "id": "s42-2",
+      "name": "Лёгкий Титан типа «Джет-2»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Лёгкий",
+      "role": "",
+      "type_ship": "«Джет-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s42-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s42-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Лёгкий Титан типа «Джет-3»": {
+      "id": "s42-3",
+      "name": "Лёгкий Титан типа «Джет-3»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Лёгкий",
+      "role": "",
+      "type_ship": "«Джет-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s42-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Лёгкий Титан типа «Джет»": {
+      "id": "s42-4",
+      "name": "Лёгкий Титан типа «Джет»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Лёгкий",
+      "role": "",
+      "type_ship": "«Джет-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Масс-Драйверные Титаны серии «Утиль»": {
+    "Тяжёлый Масс-Драйверный Титан типа «Утиль-1»": {
+      "id": "s17-1",
+      "name": "Тяжёлый Масс-Драйверный Титан типа «Утиль-1»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "Рельсовый",
+      "type_ship": "«Утиль-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s17-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s17-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Масс-Драйверный Титан типа «Утиль-2»": {
+      "id": "s17-2",
+      "name": "Тяжёлый Масс-Драйверный Титан типа «Утиль-2»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "Рельсовый",
+      "type_ship": "«Утиль-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s17-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Масс-Драйверный Титан типа «Утиль-3»": {
+      "id": "s17-3",
+      "name": "Тяжёлый Масс-Драйверный Титан типа «Утиль-3»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "Рельсовый",
+      "type_ship": "«Утиль-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Титаны серии «Тлен»": {
+    "Тяжёлый Титан типа «Тлен-1»": {
+      "id": "s18-1",
+      "name": "Тяжёлый Титан типа «Тлен-1»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Джет-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s18-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s18-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s18-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлый Титан типа «Тлен-2»": {
+      "id": "s18-2",
+      "name": "Тяжёлый Титан типа «Тлен-2»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Джет-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s18-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s18-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Титан типа «Тлен-3»": {
+      "id": "s18-3",
+      "name": "Тяжёлый Титан типа «Тлен-3»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Джет-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s18-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Титан типа «Тлен»": {
+      "id": "s18-4",
+      "name": "Тяжёлый Титан типа «Тлен»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Джет-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Мазершипы серии «Саус-Джет»": {
+    "Тяжёлый Мазершип типа «Саус-Джет-1»": {
+      "id": "s19-1",
+      "name": "Тяжёлый Мазершип типа «Саус-Джет-1»",
+      "class_ship": "Мазершип",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Саус-Джет-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "с1", "8", "5", "c3", "c8"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Эсминцы серии «Флетчер»": {
+    "Тяжёлый Эсминец типа «Флетчер-1»": {
+      "id": "s20-1",
+      "name": "Тяжёлый Эсминец типа «Флетчер-1»",
+      "class_ship": "Эсминец",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Флетчер-1»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s20-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s20-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Эсминец типа «Флетчер-2»": {
+      "id": "s20-2",
+      "name": "Тяжёлый Эсминец типа «Флетчер-2»",
+      "class_ship": "Эсминец",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Флетчер-2»",
+      "version":"2 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s20-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Эсминец типа «Флетчер»": {
+      "id": "s20-3",
+      "name": "Тяжёлый Эсминец типа «Флетчер»",
+      "class_ship": "Эсминец",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Флетчер-3»",
+      "version":"3 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Крейсера серии «Дейтерий»": {
+    "Тяжёлый Крейсер типа «Дейтерий-1»": {
+      "id": "s21-1",
+      "name": "Тяжёлый Крейсер типа «Дейтерий-1»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Дейтерий-1»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s21-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s21-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Дейтерий-2»": {
+      "id": "s21-2",
+      "name": "Тяжёлый Крейсер типа «Дейтерий-2»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Дейтерий-2»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s21-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Крейсер типа «Дейтерий»": {
+      "id": "s21-3",
+      "name": "Тяжёлый Крейсер типа «Дейтерий»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Дейтерий-3»",
+      "version":"3 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Линкоры серии «Айва»": {
+    "Тяжёлый Линкор типа «Айва-1»": {
+      "id": "s22-1",
+      "name": "Тяжёлый Линкор типа «Айва-1»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Айва-1»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s22-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s22-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Айва-2»": {
+      "id": "s22-2",
+      "name": "Тяжёлый Линкор типа «Айва-2»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Айва-2»",
+      "version":"2 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s22-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Линкор типа «Айва»": {
+      "id": "s22-3",
+      "name": "Тяжёлый Линкор типа «Айва»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Айва-3»",
+      "version":"3 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Авианосные Линкоры серии «Кага»": {
+    "Тяжёлый Авианосный Линкор типа «Кага-1»": {
+      "id": "s23-1",
+      "name": "Тяжёлый Авианосный Линкор типа «Кага-1»",
+      "class_ship": "Авианосный Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Кага-1»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s23-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s23-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Линкор типа «Кага-2»": {
+      "id": "s23-2",
+      "name": "Тяжёлый Авианосный Линкор типа «Кага-2»",
+      "class_ship": "Авианосный Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Кага-2»",
+      "version":"2 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s23-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Авианосный Линкор типа «Кага»": {
+      "id": "s23-3",
+      "name": "Тяжёлый Авианосный Линкор типа «Кага»",
+      "class_ship": "Авианосный Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Кага-3»",
+      "version":"3 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Дредноуты серии «Фусо»": {
+    "Тяжёлый Дредноут типа «Фусо-1»": {
+      "id": "s24-1",
+      "name": "Тяжёлый Дредноут типа «Фусо-1»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Фусо-1»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s24-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s24-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Дредноут типа «Фусо-2»": {
+      "id": "s24-2",
+      "name": "Тяжёлый Дредноут типа «Фусо-2»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Фусо-2»",
+      "version":"2 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s24-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Дредноут типа «Фусо»": {
+      "id": "s24-3",
+      "name": "Тяжёлый Дредноут типа «Фусо»",
+      "class_ship": "Дредноут",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Фусо-3»",
+      "version":"3 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Титаны серии «Гуарт»": {
+    "Титан типа «Гуарт-1»": {
+      "id": "s25-1",
+      "name": "Титан типа «Гуарт-1»",
+      "class_ship": "Титан",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Гуарт-1»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s25-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s25-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Титан типа «Гуарт-2»": {
+      "id": "s25-2",
+      "name": "Титан типа «Гуарт-2»",
+      "class_ship": "Титан",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Гуарт-2»",
+      "version":"2 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s25-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Титан типа «Гуарт»": {
+      "id": "s25-3",
+      "name": "Титан типа «Гуарт»",
+      "class_ship": "Титан",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Гуарт-3»",
+      "version":"3 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Титаны серии «Королева»": {
+    "Тяжёлый Титан типа «Королева-1»": {
+      "id": "s26-1",
+      "name": "Тяжёлый Титан типа «Королева-1»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Королева-1»",
+      "version":"1 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s26-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s26-3",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлый Титан типа «Королева-2»": {
+      "id": "s26-2",
+      "name": "Тяжёлый Титан типа «Королева-2»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Королева-2»",
+      "version":"2 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s26-3",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлый Титан типа «Королева»": {
+      "id": "s26-3",
+      "name": "Тяжёлый Титан типа «Королева»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Королева-3»",
+      "version":"3 поколение",
+      "ownersName": ["с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Линейные Подпространственные Субмарины серии «Подпространство»": {
+    "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-1»": {
+      "id": "s27-1",
+      "name": "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-1»",
+      "class_ship": "Линейная Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Подпространство-1»",
+      "version":"1 поколение",
+      "ownersName": ["2"],
+      "upgrades": [
+        {
+          "targetShipId": "s27-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s27-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s27-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-2»": {
+      "id": "s27-2",
+      "name": "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-2»",
+      "class_ship": "Линейная Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Подпространство-2»",
+      "version":"2 поколение",
+      "ownersName": ["2"],
+      "upgrades": [
+        {
+          "targetShipId": "s27-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s27-4",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s27-5",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-3»": {
+      "id": "s27-3",
+      "name": "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-3»",
+      "class_ship": "Линейная Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Подпространство-3»",
+      "version":"3 поколение",
+      "ownersName": ["2"],
+      "upgrades": [
+        {
+          "targetShipId": "s27-4",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s27-5",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s27-6",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-4»": {
+      "id": "s27-4",
+      "name": "Патрульный Эсминец типа «Пента»",
+      "class_ship": "Линейная Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Подпространство-4»",
+      "version":"4 поколение",
+      "ownersName": ["2"],
+      "upgrades": [
+        {
+          "targetShipId": "s27-5",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s27-6",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство-5»": {
+      "id": "s27-5",
+      "name": "Патрульный Эсминец типа «Пента»",
+      "class_ship": "Линейная Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Подпространство-5»",
+      "version":"5 поколение",
+      "ownersName": ["2","с1"],
+      "upgrades": [
+        {
+          "targetShipId": "s27-6",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлая Линейная Подпространственная Субмарина типа «Подпространство»": {
+      "id": "s27-6",
+      "name": "Патрульный Эсминец типа «Пента»",
+      "class_ship": "Линейная Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Подпространство-6»",
+      "version":"6 поколение",
+      "ownersName": ["2","с1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Крейсерские Подпространственные Субмарины серии «Чана»": {
+    "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана-1»": {
+      "id": "s28-1",
+      "name": "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана-1»",
+      "class_ship": "Крейсерская Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Чана-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s28-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s28-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s28-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана-2»": {
+      "id": "s28-2",
+      "name": "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана-2»",
+      "class_ship": "Крейсерская Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Чана-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s28-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s28-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана-3»": {
+      "id": "s28-3",
+      "name": "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана-3»",
+      "class_ship": "Крейсерская Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Чана-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s28-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана»": {
+      "id": "s28-4",
+      "name": "Тяжёлая Крейсерска Подпространственная Субмарина типа «Чана»",
+      "class_ship": "Крейсерская Подпространственная Субмарина",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Чана-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Эскортные Подпространственные Субарины серии «Перган»": {
+    "Эскортная Подпространственная Субмарина типа «Перган-1»": {
+      "id": "s29-1",
+      "name": "Эскортная Подпространственная Субмарина типа «Перган-1»",
+      "class_ship": "Эскортная Подпространственная Субмарина",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Перган-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s29-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s29-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s29-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Эскортная Подпространственная Субмарина типа «Перган-2»": {
+      "id": "s29-2",
+      "name": "Эскортная Подпространственная Субмарина типа «Перган-2»",
+      "class_ship": "Эскортная Подпространственная Субмарина",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Перган-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s29-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s29-",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Эскортная Подпространственная Субмарина типа «Перган-3»": {
+      "id": "s29-3",
+      "name": "Эскортная Подпространственная Субмарина типа «Перган-3»",
+      "class_ship": "Эскортная Подпространственная Субмарина",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Перган-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s29-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Эскортная Подпространственная Субмарина типа «Перган»": {
+      "id": "s29-4",
+      "name": "Эскортная Подпространственная Субмарина типа «Перган»",
+      "class_ship": "Эскортная Подпространственная Субмарина",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Перган-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Лёгкие Подпространственные Субманины серии «Сирена»": {
+    "Лёгкая Подпространственная Субмарина типа «Сирена-1»": {
+      "id": "s30-1",
+      "name": "Лёгкая Подпространственная Субмарина типа «Сирена-1»",
+      "class_ship": "Подпространственная Субмарина",
+      "subclass_ship": "Лёгкая",
+      "role": "",
+      "type_ship": "«Сирена-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s30-2",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s30-3",
+          "timeMultiplier": 0.8
+        },
+        {
+          "targetShipId": "s30-4",
+          "timeMultiplier": 1.2
+        }
+      ]
+    },
+    "Лёгкая Подпространственная Субмарина типа «Сирена-2»": {
+      "id": "s30-2",
+      "name": "Лёгкая Подпространственная Субмарина типа «Сирена-2»",
+      "class_ship": "Подпространственная Субмарина",
+      "subclass_ship": "Лёгкая",
+      "role": "",
+      "type_ship": "«Сирена-2»",
+      "version":"2 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s30-3",
+          "timeMultiplier": 0.5
+        },
+        {
+          "targetShipId": "s30-4",
+          "timeMultiplier": 0.8
+        }
+      ]
+    },
+    "Лёгкая Подпространственная Субмарина типа «Сирена-3»": {
+      "id": "s30-3",
+      "name": "Лёгкая Подпространственная Субмарина типа «Сирена-3»",
+      "class_ship": "Подпространственная Субмарина",
+      "subclass_ship": "Лёгкая",
+      "role": "",
+      "type_ship": "«Сирена-3»",
+      "version":"3 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+        {
+          "targetShipId": "s30-4",
+          "timeMultiplier": 0.5
+        }
+      ]
+    },
+    "Лёгкая Подпространственная Субмарина типа «Сирена»": {
+      "id": "s30-4",
+      "name": "Лёгкая Подпространственная Субмарина типа «Сирена»",
+      "class_ship": "Подпространственная Субмарина",
+      "subclass_ship": "Лёгкая",
+      "role": "",
+      "type_ship": "«Сирена-4»",
+      "version":"4 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Левиафаны серии «Евангелион»": {
+    "Тяжёлый Левиафан типа «Евангелион»": {
+      "id": "s31-1",
+      "name": "Тяжёлый Левиафан типа «Евангелион»",
+      "class_ship": "Левиафан",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Евангелион-1»",
+      "version":"1 поколение",
+      "ownersName": ["2", "c1"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Карманные Фрегаты серии «Kom'rk»": {
+    "Карманный Фрегат типа «Kom'rk»": {
+      "id": "s32-1",
+      "name": "Карманный Фрегат типа «Kom'rk»",
+      "class_ship": "Карманный Фрегат",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Kom'rk»",
+      "version":"1 поколение",
+      "ownersName": ["4", "c6"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Лёгкие Фрегаты серии «Salvator»": {
+    "Лёгкий Фрегат типа «Salvator»": {
+      "id": "s33-1",
+      "name": "Лёгкий Фрегат типа «Salvator»",
+      "class_ship": "Фрегат",
+      "subclass_ship": "Лёгкий",
+      "role": "",
+      "type_ship": "«Salvator»",
+      "version":"1 поколение",
+      "ownersName": ["4", "c6"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Фрегаты серии «Venereum»": {
+    "Фрегат типа «Venereum»": {
+      "id": "s34-1",
+      "name": "Фрегат типа «Venereum»",
+      "class_ship": "Фрегат",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Venereum»",
+      "version":"1 поколение",
+      "ownersName": ["4", "c6"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Лёгкие Крейсера серии «Hasta»": {
+    "Лёгкий Крейсер типа «Hasta»": {
+      "id": "s35-1",
+      "name": "Лёгкий Крейсер типа «Hasta»",
+      "class_ship": "Крейсер",
+      "subclass_ship": "Лёгкий",
+      "role": "",
+      "type_ship": "«Hasta»",
+      "version":"1 поколение",
+      "ownersName": ["4", "c6"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Линкоры серии «Venator»": {
+    "Тяжёлый Линкор типа «Venator»": {
+      "id": "s36-1",
+      "name": "Тяжёлый Линкор типа «Venator»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Venator»",
+      "version":"1 поколение",
+      "ownersName": ["4", "c6"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Линкоры серии «Victory»": {
+    "Тяжёлый Линкор типа «Victory»": {
+      "id": "s37-1",
+      "name": "Тяжёлый Линкор типа «Victory»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Victory»",
+      "version":"1 поколение",
+      "ownersName": ["4"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Линкоры серии «Tector»": {
+    "Тяжёлый Линкор типа «Tector»": {
+      "id": "s38-1",
+      "name": "Тяжёлый Линкор типа «Tector»",
+      "class_ship": "Линкор",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Tector»",
+      "version":"1 поколение",
+      "ownersName": ["4"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Титаны серии «Venator XR»": {
+    "Титан типа «Venator XR»": {
+      "id": "s39-1",
+      "name": "Титан типа «Venator XR»",
+      "class_ship": "Титан",
+      "subclass_ship": "",
+      "role": "",
+      "type_ship": "«Venator XR»",
+      "version":"1 поколение",
+      "ownersName": ["4"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Титаны серии «Wolfhound»": {
+    "Тяжёлый Титан типа «Wolfhound»": {
+      "id": "s40-1",
+      "name": "Тяжёлый Титан типа «Wolfhound»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Wolfhound»",
+      "version":"1 поколение",
+      "ownersName": ["4"],
+      "upgrades": [
+
+      ]
+    }
+  },
+  "Тяжёлые Титаны серии «Superioritas»": {
+    "Тяжёлый Титан типа «Superioritas»": {
+      "id": "s41-1",
+      "name": "Тяжёлый Титан типа «Superioritas»",
+      "class_ship": "Титан",
+      "subclass_ship": "Тяжёлый",
+      "role": "",
+      "type_ship": "«Superioritas»",
+      "version":"1 поколение",
+      "ownersName": ["4"],
+      "upgrades": [
+
+      ]
+    }
+  }
+}

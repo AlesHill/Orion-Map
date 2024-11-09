@@ -1,0 +1,183 @@
+{
+  "" : {
+    "id": "c0",
+    "title_name": "",
+    "corporation_names": "",
+    "photo_name": "flag_",
+    "owner_names": "",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Картана" : {
+    "id": "c1",
+    "title_name": "Государственная Мега-Корпорация Картана Элит Индастриз",
+    "corporation_names": "Картана",
+    "photo_name": "flag_kartana",
+    "owner_names": "Орион",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "Картана",
+    "ships_list": {
+      "s20-3": "1",
+      "s21-3": "1",
+      "s22-3": "1",
+      "s23-3": "1",
+      "s24-3": "1",
+      "s25-3": "1",
+      "s26-3": "1",
+      "s27-6": "1",
+      "s28-4": "1",
+      "s29-4": "1",
+      "s30-4": "1",
+      "s31-1": "1"
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Доксфорд" : {
+    "id": "c2",
+    "title_name": "Доксфордская Компания",
+    "corporation_names": "Доксфорд",
+    "photo_name": "flag_goxford",
+    "owner_names": "Империя",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Гиалис" : {
+    "id": "c3",
+    "title_name": "Государственная Корпорация Гиалис",
+    "corporation_names": "Гиалис",
+    "photo_name": "flag_gilias",
+    "owner_names": "Соц.Интерн",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Сегинус" : {
+    "id": "c4",
+    "title_name": "Сегинус Корпорацион",
+    "corporation_names": "Сегинус",
+    "photo_name": "flag_seginus",
+    "owner_names": "ССМП",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "Сегинус-12",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Инара" : {
+    "id": "c5",
+    "title_name": "Инари Биохемикалс",
+    "corporation_names": "Инара",
+    "photo_name": "flag_inara",
+    "owner_names": "",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "Ина-Прайм",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Великий Легион" : {
+    "id": "c6",
+    "title_name": "Великий Легион",
+    "corporation_names": "Великий Легион",
+    "photo_name": "flag_legion",
+    "owner_names": "Сайдония",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "Талмора",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Багровый Закат" : {
+    "id": "c7",
+    "title_name": "Багровый Закат",
+    "corporation_names": "Багровый Закат",
+    "photo_name": "flag_zakat",
+    "owner_names": "",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "Тариан",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Гос.Корп" : {
+    "id": "c8",
+    "title_name": "Гос.Корп",
+    "corporation_names": "Гос.Корп",
+    "photo_name": "flag_corpsod",
+    "owner_names": "Содружество Звёзд",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  },
+  "Gestalt" : {
+    "id": "c10",
+    "title_name": "Gestalt Corp.",
+    "corporation_names": "Gestalt",
+    "photo_name": "flag_gestalt",
+    "owner_names": "NeIRo Gestalt",
+    "corporation_type": "",
+    "industry": "",
+    "products": "",
+    "capital": "Миколоид-Прайм",
+    "ships_list": {
+
+    },
+    "flagman_list": {
+
+    }
+  }
+}

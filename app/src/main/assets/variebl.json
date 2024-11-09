@@ -1,0 +1,50 @@
+{
+  "class": {
+    "packet_frigate": "Карманный Фрегат",
+    "corvette": "Корвет",
+    "destroyer": "Эсминец",
+    "frigate": "Фрегат",
+    "cruiser": "Крейсер",
+    "battleship": "Линкор",
+    "dreadnought": "Дредноут",
+    "titan": "Титан",
+    "mothership": "Мазершип",
+    "leviathan": "Левиафан",
+    "subspace_boat": "Подпространственная Лодка",
+    "subspace_submarine": "Подпространственная Субмарина",
+    "escort_subspace_submarine": "Эскортная Подпространственная Субмарина",
+    "cruising_subspace_submarine": "Крейсерская Подпространственная Субмарина",
+    "linear_subspace_submarine": "Линейная Подпространственная Субмарина",
+    "destroyer_carrier": "Авианосный Эсминец",
+    "frigate_carrier": "Авианосный Фрегат",
+    "cruiser_carrier": "Авианосный Крейсер",
+    "battleship_carrier": "Авианосный Линкор",
+    "dreadnought_carrier": "Авианосный Дредноут",
+    "titan_carrier": "Авианосный Титан",
+    "mothership_carrier": "Авианосный Мазершип"
+  },
+  "subclass": {
+    "light": "Лёгкий",
+    "normal": "",
+    "heavy": "Тяжёлый",
+    "superheavy": "Сврех-Тяжёлый"
+  },
+  "role": {
+    "none": "",
+    "escort": "Эскортный",
+    "cruiser": "Крейсерский",
+    "linear": "Линейный",
+    "rail": "Рельсовый",
+    "strike": "Ударный",
+    "patrol": "Патрульный",
+    "long-range": "Дальнобойный",
+    "armored": "Бронированный",
+    "assault": "Штурмовой",
+    "landing": "Десантный",
+    "transport": "Транспортный",
+    "artillery": "Артиллерийский",
+    "missile": "Ракетный",
+    "stealth": "Стелс",
+    "universal": "Универсальный"
+  }
+}

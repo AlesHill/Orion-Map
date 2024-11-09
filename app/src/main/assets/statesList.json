@@ -1,0 +1,188 @@
+{
+  "Отсутствует" : {
+    "id": "0",
+    "title_name": "Не занятые Системы",
+    "owner_name": "Отсутствует",
+    "photo_name": "flag_not",
+    "сorporation_names": "",
+    "ideology": "Отсутствует",
+    "government": "Отсутствует",
+    "form_state": "Отсутствует",
+    "capital": "",
+    "ships_list": {}
+  },
+  "Нейтралы" : {
+    "id": "1",
+    "title_name": "Нейтральные Системы",
+    "owner_name": "Нейтралы",
+    "photo_name": "flag_netral",
+    "сorporation_names": "",
+    "ideology": "Нет единой",
+    "government": "Нет единой",
+    "form_state": "Нет единой",
+    "capital": "",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "Орион" : {
+    "id": "2",
+    "title_name": "Орионская Советская Федеративная Социалистическая Республика",
+    "owner_name": "Орион",
+    "photo_name": "flag_orion",
+    "сorporation_names": "Картана",
+    "ideology": "Социализм",
+    "government": "Федеративная Однопартийная Социалистическая Республика",
+    "form_state": "Централизованная Федерация",
+    "capital": "Земля",
+    "ships_list": {
+      "s1-1": "1",
+      "s2-1": "1",
+      "s3-5": "1",
+      "s4-7": "1",
+      "s5-7": "1",
+      "s6-4": "1",
+      "s7-1": "1",
+      "s8-7": "1",
+      "s9-7": "1",
+      "s11-1": "1",
+      "s12-7": "1",
+      "s13-7": "1",
+      "s14-1": "1",
+      "s15-4": "1",
+      "s16-4": "1",
+      "s42-4": "1",
+      "s17-3": "1",
+      "s18-4": "1",
+      "s19-1": "1",
+      "s27-6": "1",
+      "s28-4": "1",
+      "s29-4": "1",
+      "s30-4": "1"
+    },
+    "flagman_list": {
+      
+    }
+  },
+  "Империя" : {
+    "id": "3",
+    "title_name": "Великая Галактическая Империя",
+    "owner_name": "Империя",
+    "photo_name": "flag_imperiay",
+    "сorporation_names": "Доксфорд",
+    "ideology": "Империализм",
+    "government": "Выборная Абсолютная Монархия",
+    "form_state": "Централизованная Федерация",
+    "capital": "Нембриакс",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "Сайдония" : {
+    "id": "4",
+    "title_name": "Империя Сайдонского Веикоержавия",
+    "owner_name": "Сайдония",
+    "photo_name": "flag_saidoniay",
+    "сorporation_names": "Великий Легион",
+    "ideology": "Империалисты",
+    "government": "Абсолютная Монархия",
+    "form_state": "Унитарное государство",
+    "capital": "Талмора",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "Содружество Звёзд" : {
+    "id": "5",
+    "title_name": "Содружество Звёзд",
+    "owner_name": "Содружество Звёзд",
+    "photo_name": "flag_sodrujistvo",
+    "сorporation_names": "Гос.Корп.",
+    "ideology": "Коммунизм",
+    "government": "Военная Диктатура",
+    "form_state": "Унитарное государство",
+    "capital": "Аксагон",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "Свободный Эйдем" : {
+    "id": "6",
+    "title_name": "Свободный Эйдем",
+    "owner_name": "Свободный Эйдем",
+    "photo_name": "flag_edem",
+    "сorporation_names": "",
+    "ideology": "Прогресситы",
+    "government": "Дуалистическая монархия",
+    "form_state": "Унитарное государство",
+    "capital": "Эйдем",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "ССМП" : {
+    "id": "7",
+    "title_name": "Соединённые Сектора Млечного Пути",
+    "owner_name": "ССМП",
+    "photo_name": "flag_ssmp",
+    "сorporation_names": "Сегинус",
+    "ideology": "Капитализм",
+    "government": "Республика (Смешанная)",
+    "form_state": "Федерация",
+    "capital": "Ваншатата",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "Соц.Интерн" : {
+    "id": "8",
+    "title_name": "Социалистический Интернационал",
+    "owner_name": "Соц.Интерн",
+    "photo_name": "flag_socintren",
+    "сorporation_names": "Гиалис",
+    "ideology": "Социализм",
+    "government": "Федеративная Однопартийная Республика",
+    "form_state": "Федерация",
+    "capital": "Аркадия-Прайм",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "NeIRo Gestalt" : {
+    "id": "9",
+    "title_name": "NeIRo Gestalt",
+    "owner_name": "NeIRo Gestalt",
+    "photo_name": "flag_neiro",
+    "сorporation_names": "Gestalt",
+    "ideology": "Социализм",
+    "government": "Единая Сеть",
+    "form_state": "Единая Сеть",
+    "capital": "Миколоид-Прайм",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  },
+  "Тени" : {
+    "id": "10",
+    "title_name": "Объеденённый Тени",
+    "owner_name": "Тени",
+    "photo_name": "flag_teni",
+    "сorporation_names": "Шедоу",
+    "ideology": "Социализм",
+    "government": "Парламенская Республика",
+    "form_state": "Республика",
+    "capital": "Войд",
+    "ships_list": {},
+    "flagman_list": {
+
+    }
+  }
+}
