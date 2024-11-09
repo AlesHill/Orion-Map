@@ -11,7 +11,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.GalacticMape"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
         tools:targetApi="31">
 
         <activity
@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MapActivityMilkyWay"
+            android:name=".MilkyWay.MapActivityMilkyWay"
             />
         <activity
             android:name=".MapActivityLoading"
@@ -33,7 +33,54 @@
             android:name=".MarkerDetailsActivity"
             >
         </activity>
-
+        <activity
+            android:name=".Owner.OwnerActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Owner.OwnerDetailsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Owner.OwnerPlanetsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Owner.OwnerShipsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Corporation.CorporationShipsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Corporation.CorporationPlanetsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Corporation.CorporationPlanetDetailsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Corporation.CorporationActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Corporation.CorporationDetailsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Owner.OwnerPlanetDetailsActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Owner.OwnerShipDetailActivity"
+            >
+        </activity>
+        <activity
+            android:name=".Corporation.CorporationShipDetailsActivity"
+            >
+        </activity>
     </application>
 
 </manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Состояние при нажатии -->
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#444444"/> <!-- Темный цвет при нажатии -->
+            <corners android:radius="8dp"/> <!-- Закругление углов -->
+            <stroke
+                android:width="2dp"
+                android:color="#FFFFFF"/> <!-- Белая рамка -->
+        </shape>
+    </item>
+
+    <!-- Обычное состояние -->
+    <item>
+        <shape>
+            <solid android:color="#333333"/> <!-- Основной цвет кнопки -->
+            <corners android:radius="8dp"/> <!-- Закругление углов -->
+            <stroke
+                android:width="2dp"
+                android:color="#242424"/> <!-- Белая рамка -->
+        </shape>
+    </item>
+</selector>

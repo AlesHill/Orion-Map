@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Фон панели -->
+    <solid android:color="#1A1A1A"/> <!-- Темный фон панели (можно изменить цвет на ваш) -->
+
+    <!-- Тень или градиент можно добавить по желанию -->
+    <padding
+        android:left="16dp"
+        android:top="16dp"
+        android:right="16dp"
+        android:bottom="16dp"/>
+</shape>

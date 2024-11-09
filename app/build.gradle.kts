@@ -32,6 +32,7 @@ android {
 }
 
 dependencies {
+    implementation(libs.okhttp)
     implementation(libs.subsampling.scale.image.view)
     implementation(libs.appcompat)
     implementation(libs.material)

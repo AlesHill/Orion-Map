@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#2A2A2A">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- Картинка флага корпорации -->
+        <ImageView
+            android:id="@+id/imageViewFlagCorporation"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter" />
+
+        <!-- Название корпорации -->
+        <TextView
+            android:id="@+id/textViewFullNameCorporation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"
+            android:gravity="center" />
+
+        <!-- Тип корпорации -->
+        <TextView
+            android:id="@+id/textViewCorporationType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+
+        <!-- Столица -->
+        <TextView
+            android:id="@+id/textViewCapitalCorporation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+
+        <!-- Принадлежность -->
+        <TextView
+            android:id="@+id/textViewBelonging"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+
+        <!-- Отрасли -->
+        <TextView
+            android:id="@+id/textViewIndustries"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+
+        <!-- Продукция -->
+        <TextView
+            android:id="@+id/textViewProducts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+
+        <!-- МЛЕЧНЫЙ ПУТЬ -->
+        <TextView
+            android:id="@+id/textViewMilkyWay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/milky_way_button_text"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"
+            android:gravity="center" />
+
+        <!-- Подконтрольные Планеты в Млечном Пути -->
+        <TextView
+            android:id="@+id/textViewPrimaryPlanetsMilkyWay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="8dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewSecondaryPlanetsMilkyWay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewTertiaryPlanetsMilkyWay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewShipsMilkyWay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+
+        <!-- БОЛЬШОЕ МАГЕЛЛАНОВО ОБЛАКО -->
+        <TextView
+            android:id="@+id/textViewLargeMagellanicCloud"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/magellan_button_text"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"
+            android:gravity="center" />
+
+        <!-- Подконтрольные Планеты в Большом Магеллановом Облаке -->
+        <TextView
+            android:id="@+id/textViewPrimaryPlanetsLMC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="8dp"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewSecondaryPlanetsLMC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewTertiaryPlanetsLMC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/textViewShipsLMC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginTop="8dp" />
+
+        <!-- Кнопка "Назад" -->
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/back"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/button_back_background"
+            android:layout_marginTop="16dp" />
+    </LinearLayout>
+</ScrollView>

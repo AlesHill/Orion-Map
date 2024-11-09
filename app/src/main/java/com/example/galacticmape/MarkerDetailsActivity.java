@@ -5,12 +5,44 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.TextView;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class MarkerDetailsActivity extends AppCompatActivity {
+
+    private Map<String, String> ownerFullNameMap;
+    private Map<String, String> corporationFullNameMap;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_marker_details);
+
+        // Инициализируем словарь для полного названия государств
+        ownerFullNameMap = new HashMap<>();
+        ownerFullNameMap.put("Орион", "Орионская Советская Федеративная Социалистическая Республика");
+        ownerFullNameMap.put("Империя", "Великая Галактическая Империя");
+        ownerFullNameMap.put("Сайдония", "Империя Сайдонского Веикоержавия");
+        ownerFullNameMap.put("Содружество Звёзд", "Содружество Звёзд");
+        ownerFullNameMap.put("Свободный Эйдем", "Свободный Эйдем");
+        ownerFullNameMap.put("ССМП", "Соединённые Сектора Млечного Пути");
+        ownerFullNameMap.put("Соц.Интерн", "Социалистический Интернационал");
+        ownerFullNameMap.put("Тени", "Объеденённый Тени");
+        ownerFullNameMap.put("NeIRo Gestalt", "NeIRo Gestalt");
+        ownerFullNameMap.put("Нейтралы", "Нейтралы");
+
+        corporationFullNameMap = new HashMap<>();
+        corporationFullNameMap.put("Картана", "Государственная Мега-Корпорация Картана Элит Индастриз");
+        corporationFullNameMap.put("Гиалис", "Государственная Корпорация Гиалис");
+        corporationFullNameMap.put("Сегинус", "Сегинус Корпорацион");
+        corporationFullNameMap.put("Инара", "Инари Биохемикалс");
+        corporationFullNameMap.put("Доксфорд", "Доксфордская Компания");
+        corporationFullNameMap.put("Великий Легион", "Великий Легион");
+        corporationFullNameMap.put("Багровый Закат", "Багровый Закат");
+        corporationFullNameMap.put("Гос.Корп.", "Гос.Корп.");
+        corporationFullNameMap.put("Шедоу", "Организация Шедоу");
+        corporationFullNameMap.put("Gestalt", "Gestalt Corp.");
+        corporationFullNameMap.put("", "Отсутствуют");
 
         // Получаем данные из Intent
         String title = getIntent().getStringExtra("title");
@@ -28,6 +60,14 @@ public class MarkerDetailsActivity extends AppCompatActivity {
         // Устанавливаем данные в TextView
         TextView titleTextView = findViewById(R.id.titleTextView);
         titleTextView.setText(title);  // Устанавливаем только название метки
+
+        // Проверяем мапу на наличие полного названия государства
+        String fullOwnerName = ownerFullNameMap.containsKey(owner) ? ownerFullNameMap.get(owner) : owner;
+
+        // Проверяем мапу на наличие полного названия корпорации
+        String fullCorporationName = corporationFullNameMap.containsKey(corporation) ? corporationFullNameMap.get(corporation) : corporation;
+
+        // Устанавливаем название метки (без
 
         TextView systemTextView = findViewById(R.id.systemTextView);
         systemTextView.setText("Система: " + system);
@@ -48,10 +88,10 @@ public class MarkerDetailsActivity extends AppCompatActivity {
         economyTextView.setText("Экономика: " + economy);
 
         TextView ownerTextView = findViewById(R.id.ownerTextView);
-        ownerTextView.setText("Гос.: " + owner);
+        ownerTextView.setText("Гос.: " + fullOwnerName);
 
         TextView corporationTextView = findViewById(R.id.corporationTextView);
-        corporationTextView.setText("Корп.: " + corporation);
+        corporationTextView.setText("Корп.: " + fullCorporationName);
 
         TextView capitalTextView = findViewById(R.id.capitalTextView);
         capitalTextView.setText(isCapital ? "Столица: Да" : "Столица: Нет");

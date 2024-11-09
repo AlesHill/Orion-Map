@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+
+    <!-- Внешний контур (обводка) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 92.5,0 L 192.5,0 L 192.5,100 L 92.5,100 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 7.5,0 L 82.5,0 L 82.5,45 L 7.5,45 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 7.2,100 L 82.5,100 L 82.5,55 L 7.5,55 Z" />
+</vector>

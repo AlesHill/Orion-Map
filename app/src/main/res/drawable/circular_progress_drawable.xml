@@ -10,6 +10,6 @@
         android:innerRadiusRatio="3"
         android:thicknessRatio="8"
         android:useLevel="false">
-        <solid android:color="@android:color/holo_blue_light" />
+        <solid android:color="@color/blue_light" />
     </shape>
 </rotate>

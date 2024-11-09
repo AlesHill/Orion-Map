@@ -8,6 +8,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.galacticmape.MilkyWay.MapActivityMilkyWay;
+
 public class MapActivityLoading extends AppCompatActivity {
 
     private ProgressBar progressBar;
@@ -43,7 +45,7 @@ public class MapActivityLoading extends AppCompatActivity {
                     }
                 });
                 try {
-                    Thread.sleep(50);  // Имитация времени загрузки
+                    Thread.sleep(10);  // Имитация времени загрузки
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

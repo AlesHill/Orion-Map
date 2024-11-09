@@ -1,28 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <!-- Ваша карта -->
+    <com.example.galacticmape.MilkyWay.CustomMapViewMilkyWay
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/autoCompleteTextView" />
 
     <!-- Стилизация поисковой строки -->
     <AutoCompleteTextView
         android:id="@+id/autoCompleteTextView"
         android:layout_width="match_parent"
         android:layout_height="48dp"
+        android:layout_gravity="top"
+        android:layout_margin="10dp"
         android:background="@drawable/search_view_background"
-        android:layout_marginTop="5dp"
-        android:padding="10dp"
+        android:completionThreshold="1"
+        android:drawableEnd="@drawable/ic_clear"
         android:hint="@string/search_hint"
+        android:inputType="text"
+        android:padding="8dp"
         android:textColor="@android:color/black"
         android:textColorHint="@android:color/darker_gray"
-        android:completionThreshold="1"
-        android:inputType="text"
-        android:drawableEnd="@drawable/ic_clear"
-        android:textCursorDrawable="@null"/>
+        android:textCursorDrawable="@null" />
 
-    <!-- Ваша карта -->
-    <com.example.galacticmape.CustomMapViewMilkyWay
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
+    <!-- Боковая панель с ручкой -->
+    <LinearLayout
+        android:id="@+id/side_panel"
+        android:layout_width="0dp"
         android:layout_height="match_parent"
-        android:layout_below="@id/autoCompleteTextView" />
-</RelativeLayout>
+        android:layout_gravity="start"
+        android:background="@drawable/panel_background"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Логотип -->
+        <ImageView
+            android:id="@+id/logo_orion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo_orion"
+            android:layout_gravity="center_horizontal"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter" />
+
+        <!-- Кнопка -->
+        <Button
+            android:id="@+id/button_owner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/botom_owner"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background" />
+
+        <!-- Подсписок Планеты, изначально скрыт -->
+        <LinearLayout
+            android:id="@+id/owner_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <!-- Дополнительные кнопки для планет -->
+            <Button
+                android:id="@+id/button_owner_states"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_background_2"
+                android:text="@string/botom_owner"
+                android:textColor="@android:color/white" />
+            <Button
+                android:id="@+id/button_owner_planets"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_background_2"
+                android:text="@string/planets"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/button_owner_ships"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_background_2"
+                android:text="@string/ships"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <!-- Кнопка Корабли -->
+        <Button
+            android:id="@+id/button_corporation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/botom_corporation"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_background" />
+
+        <!-- Подсписок Корабли, изначально скрыт -->
+        <LinearLayout
+            android:id="@+id/corporation_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <!-- Дополнительные кнопки для кораблей -->
+            <Button
+                android:id="@+id/button_corporation_states"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_background_2"
+                android:text="@string/botom_corporation"
+                android:textColor="@android:color/white" />
+            <Button
+                android:id="@+id/button_corporation_planets"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_background_2"
+                android:text="@string/planets"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/button_corporation_ships"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/button_background_2"
+                android:text="@string/ships"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <!-- Кнопка "Назад" -->
+        <Button
+            android:id="@+id/button_back"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/back"
+            android:textColor="@android:color/white"
+            android:background="@drawable/button_back_background"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="16dp"  />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/panel_handle"
+        android:layout_width="30dp"
+        android:layout_height="200dp"
+        android:layout_gravity="start|bottom"
+        android:layout_marginBottom="60dp"
+        android:layout_marginStart="0dp"
+        android:background="@drawable/panel_handle_background" />
+</FrameLayout>

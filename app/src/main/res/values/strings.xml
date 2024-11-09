@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Orion Mape</string>
-    <string name="start_button_text">Начать</string>
+    <string name="app_name">Orion Map</string>
+    <string name="start_button_text">Запуск</string>
     <string name="milky_way_button_text">Млечный Путь</string>
     <string name="magellan_button_text">Большое Магелланово Облако</string>
     <string name="search_hint">Найти планету</string>
@@ -14,7 +14,15 @@
     <string name="economy">Экономика:</string>
     <string name="owner">Гос.:</string>
     <string name="corporation">Корп.:</string>
+    <string name="botom_owner">Государства</string>
+    <string name="botom_corporation">Корпорации</string>
     <string name="marker_type">Тип Метки:</string>
     <string name="capital">Столица:</string>
     <string name="back">Назад</string>
+    <string name="procent">0%</string>
+    <string name="planets">Планеты</string>
+    <string name="ships">Корабли</string>
+    <string name="first">Первичные</string>
+    <string name="second">Вторичные</string>
+    <string name="third">Третичные</string>
 </resources>
