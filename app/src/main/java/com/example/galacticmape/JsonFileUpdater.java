@@ -8,7 +8,6 @@ import android.util.Log;
 import com.example.galacticmape.MilkyWay.CustomMapViewMilkyWay;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -20,59 +19,29 @@ import okhttp3.Response;
 
 public class JsonFileUpdater {
 
-    private static final String BASE_URL = "https://raw.githubusercontent.com/AlesHill/Orion-Map/refs/heads/main/app/src/main/assets/";
-
-    // URL для файлов, требующих перерисовки карты
-    private static final String[] MAP_UPDATE_FILES = {
-            "magiestralsMilkyWay.json",
-            "markersMilkyWay.json"
-    };
-
-    // URL для дополнительных файлов, не требующих перерисовки карты
-    private static final String[] EXTRA_FILES = {
-            "corporationList.json",
-            "shipsFlagmanList.json",
-            "shipsList.json",
-            "statesList.json",
-            "timeShipsBuildMod.json",
-            "variebl.json"
-    };
-
+    private static final String MAGIESTRALS_URL = "https://raw.githubusercontent.com/AlesHill/Orion-Map/refs/heads/main/app/src/main/assets/magiestralsMilkyWay.json";
+    private static final String MARKERS_URL = "https://raw.githubusercontent.com/AlesHill/Orion-Map/refs/heads/main/app/src/main/assets/markersMilkyWay.json";
     private Context context;
 
     public JsonFileUpdater(Context context) {
         this.context = context;
     }
 
-    // Метод для загрузки и обновления всех JSON файлов
+    // Метод для загрузки и обновления JSON файлов
     public void updateJsonFiles() {
-        // Сначала обновляем файлы для карты
-        for (String fileName : MAP_UPDATE_FILES) {
-            new DownloadJsonTask(fileName, true).execute(BASE_URL + fileName);
-        }
-
-        // Затем обновляем дополнительные файлы
-        for (String fileName : EXTRA_FILES) {
-            new DownloadJsonTask(fileName, false).execute(BASE_URL + fileName);
-        }
+        new DownloadJsonTask().execute(MAGIESTRALS_URL, MARKERS_URL);
     }
 
     private class DownloadJsonTask extends AsyncTask<String, Void, Void> {
-        private String fileName;
-        private boolean requiresMapReload;
-
-        public DownloadJsonTask(String fileName, boolean requiresMapReload) {
-            this.fileName = fileName;
-            this.requiresMapReload = requiresMapReload;
-        }
 
         @Override
         protected Void doInBackground(String... urls) {
             try {
-                String jsonContent = downloadJsonFile(urls[0]);
-                if (jsonContent != null) {
-                    saveToFile(fileName, jsonContent);
-                }
+                String magiestralsJson = downloadJsonFile(urls[0]);
+                String markersJson = downloadJsonFile(urls[1]);
+
+                saveToFile("magiestralsMilkyWay.json", magiestralsJson);
+                saveToFile("markersMilkyWay.json", markersJson);
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -81,9 +50,8 @@ public class JsonFileUpdater {
 
         @Override
         protected void onPostExecute(Void result) {
-            if (requiresMapReload) {
-                reloadMap();
-            }
+            // После завершения загрузки данных, перерисовываем карту
+            reloadMap();
         }
 
         private String downloadJsonFile(String url) throws IOException {
@@ -95,54 +63,45 @@ public class JsonFileUpdater {
         }
 
         private void saveToFile(String fileName, String jsonContent) {
-            try {
-                // Создаем директорию "MilkyWay" во внутреннем хранилище
-                File directory = new File(context.getFilesDir(), "MilkyWay");
-                if (!directory.exists()) {
-                    directory.mkdirs(); // Создаем директорию, если она не существует
-                }
-
-                // Сохраняем файл
-                File file = new File(directory, fileName);
-                try (FileOutputStream fos = new FileOutputStream(file)) {
-                    fos.write(jsonContent.getBytes());
-                    Log.d("JsonFileUpdater", "Файл сохранён: " + file.getAbsolutePath());
-                }
+            try (FileOutputStream fos = context.openFileOutput(fileName, Context.MODE_PRIVATE)) {
+                fos.write(jsonContent.getBytes());
+                Log.d("JsonFileUpdater", "Файл сохранён: " + fileName);
             } catch (IOException e) {
                 Log.e("JsonFileUpdater", "Ошибка при сохранении файла: " + fileName, e);
             }
         }
     }
 
-    // Метод для полной перезагрузки карты (только для файлов, связанных с картой)
+    // Метод для полной перезагрузки карты
     private void reloadMap() {
+        // Очистите данные карты (если нужно)
+        CustomMapViewMilkyWay customMapView = ((Activity) context).findViewById(R.id.imageView);
+        customMapView.clear(); // Очистите текущие данные карты (магистрали, маркеры и т.д.)
+
+        // Перезагрузите данные из файлов
         String magiestralsJson = loadJsonFromFile("magiestralsMilkyWay.json");
         String markersJson = loadJsonFromFile("markersMilkyWay.json");
 
-        if (magiestralsJson != null && markersJson != null) {
-            CustomMapViewMilkyWay customMapView = ((Activity) context).findViewById(R.id.imageView);
-            customMapView.clear();
-            customMapView.loadMagiestrals(magiestralsJson);
-            customMapView.loadMarkers(markersJson);
-            customMapView.invalidate();
-        } else {
-            Log.e("JsonFileUpdater", "Ошибка: не удалось загрузить данные магистралей или маркеров.");
-        }
+        // Используйте новые данные для перерисовки карты
+        customMapView.loadMagiestrals(magiestralsJson);
+        customMapView.loadMarkers(markersJson);
+
+        // Принудительно перерисуйте карту
+        customMapView.invalidate(); // Перерисовка
     }
 
     // Метод для загрузки JSON из локального файла
     private String loadJsonFromFile(String fileName) {
-        File file = new File(context.getFilesDir(), "MilkyWay/" + fileName);
-        try (FileInputStream fis = new FileInputStream(file);
-             InputStreamReader isr = new InputStreamReader(fis);
-             BufferedReader reader = new BufferedReader(isr)) {
-
-            StringBuilder jsonContent = new StringBuilder();
+        try {
+            FileInputStream fis = context.openFileInput(fileName);
+            InputStreamReader isr = new InputStreamReader(fis);
+            BufferedReader bufferedReader = new BufferedReader(isr);
+            StringBuilder sb = new StringBuilder();
             String line;
-            while ((line = reader.readLine()) != null) {
-                jsonContent.append(line);
+            while ((line = bufferedReader.readLine()) != null) {
+                sb.append(line);
             }
-            return jsonContent.toString();
+            return sb.toString();
         } catch (IOException e) {
             Log.e("JsonFileUpdater", "Ошибка при загрузке файла: " + fileName, e);
             return null;

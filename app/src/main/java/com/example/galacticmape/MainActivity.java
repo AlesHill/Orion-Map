@@ -15,6 +15,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        GeneralJsonFileUpdater fileUpdater = new GeneralJsonFileUpdater(this);
+        fileUpdater.updateAllFiles();
+
         // Инициализация кнопок и экранов
         final View startScreen = findViewById(R.id.start_screen);
         final LinearLayout mainMenu = findViewById(R.id.main_menu);

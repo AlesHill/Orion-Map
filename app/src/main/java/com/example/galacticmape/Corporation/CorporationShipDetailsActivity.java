@@ -19,7 +19,12 @@ import com.example.galacticmape.R;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.Iterator;
 
 public class CorporationShipDetailsActivity extends AppCompatActivity{
@@ -54,10 +59,29 @@ public class CorporationShipDetailsActivity extends AppCompatActivity{
         loadShipsForState(corporationId);
     }
 
+    private String loadJsonFromInternalStorage(String fileName) throws IOException {
+        File file = new File(getFilesDir(), "assets/" + fileName);
+        FileInputStream fis = new FileInputStream(file);
+        InputStreamReader isr = new InputStreamReader(fis, "UTF-8");
+        BufferedReader reader = new BufferedReader(isr);
+
+        StringBuilder jsonContent = new StringBuilder();
+        String line;
+        while ((line = reader.readLine()) != null) {
+            jsonContent.append(line);
+        }
+
+        reader.close();
+        isr.close();
+        fis.close();
+
+        return jsonContent.toString();
+    }
+
     private void loadJSONData() {
         try {
-            varieblData = new JSONObject(loadJSONFromAsset("variebl.json"));
-            shipsList = new JSONObject(loadJSONFromAsset("shipsList.json"));
+            varieblData = new JSONObject(loadJsonFromInternalStorage("variebl.json"));
+            shipsList = new JSONObject(loadJsonFromInternalStorage("shipsList.json"));
         } catch (Exception e) {
             Log.e("OwnerShipDetailActivity", "Ошибка загрузки JSON данных", e);
         }
@@ -66,9 +90,9 @@ public class CorporationShipDetailsActivity extends AppCompatActivity{
     private void loadShipsForState(String corporationId) {
         try {
             // Загружаем данные о кораблях для выбранного государства из statesList.json
-            JSONObject corporationsData = new JSONObject(loadJSONFromAsset("corporationList.json"));
-            JSONObject corporationData = corporationsData.getJSONObject(corporationId);
-            JSONObject shipsForState = corporationData.getJSONObject("ships_list");
+            JSONObject statesData = new JSONObject(loadJsonFromInternalStorage("corporationList.json"));
+            JSONObject stateData = statesData.getJSONObject(corporationId);
+            JSONObject shipsForState = stateData.getJSONObject("ships_list");
 
             if (shipsForState.length() == 0) {
                 Log.e("OwnerShipDetailActivity", "Нет данных о кораблях для государства: " + corporationId);

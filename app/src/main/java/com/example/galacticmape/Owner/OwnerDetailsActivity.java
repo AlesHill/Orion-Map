@@ -11,7 +11,12 @@ import com.example.galacticmape.R;
 
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.Iterator;
 
 public class OwnerDetailsActivity extends AppCompatActivity {
@@ -58,15 +63,29 @@ public class OwnerDetailsActivity extends AppCompatActivity {
         });
     }
 
+    private String loadJsonFromInternalStorage(String fileName) throws IOException {
+        File file = new File(getFilesDir(), "assets/" + fileName);
+        FileInputStream fis = new FileInputStream(file);
+        InputStreamReader isr = new InputStreamReader(fis, "UTF-8");
+        BufferedReader reader = new BufferedReader(isr);
+
+        StringBuilder jsonContent = new StringBuilder();
+        String line;
+        while ((line = reader.readLine()) != null) {
+            jsonContent.append(line);
+        }
+
+        reader.close();
+        isr.close();
+        fis.close();
+
+        return jsonContent.toString();
+    }
+
     private void loadStateDetails(String stateId) {
         try {
-            // Читаем JSON с государствами
-            InputStream inputStream = getAssets().open("statesList.json");
-            byte[] buffer = new byte[inputStream.available()];
-            inputStream.read(buffer);
-            inputStream.close();
-
-            String json = new String(buffer, "UTF-8");
+            // Загружаем JSON данные из внутреннего хранилища
+            String json = loadJsonFromInternalStorage("statesList.json");
             JSONObject statesObject = new JSONObject(json);
             JSONObject state = statesObject.getJSONObject(stateId);
 
@@ -101,13 +120,8 @@ public class OwnerDetailsActivity extends AppCompatActivity {
 
     private void loadCorporationDetails(String corporationShortName) {
         try {
-            // Читаем JSON с корпорациями
-            InputStream inputStream = getAssets().open("corporationList.json");
-            byte[] buffer = new byte[inputStream.available()];
-            inputStream.read(buffer);
-            inputStream.close();
-
-            String json = new String(buffer, "UTF-8");
+            // Загружаем JSON данные из внутреннего хранилища
+            String json = loadJsonFromInternalStorage("corporationList.json");
             JSONObject corporationObject = new JSONObject(json);
             JSONObject corporation = corporationObject.getJSONObject(corporationShortName);
             String fullName = corporation.getString("title_name");

@@ -2,6 +2,7 @@ package com.example.galacticmape.Corporation;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
@@ -10,7 +11,11 @@ import com.example.galacticmape.R;
 
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.util.Iterator;
 
@@ -32,14 +37,30 @@ public class CorporationPlanetsActivity extends AppCompatActivity {
 
     private void loadStates() {
         try {
-            // Чтение файла statesList.json из папки assets
-            InputStream inputStream = getAssets().open("corporationList.json");
-            byte[] buffer = new byte[inputStream.available()];
-            inputStream.read(buffer);
-            inputStream.close();
-            String jsonData = new String(buffer, StandardCharsets.UTF_8);
+            File file = new File(getFilesDir(), "assets/corporationsList.json");
+            if (!file.exists()) {
+                Log.e("OwnerActivity", "Файл statesList.json не найден.");
+                return;
+            }
 
-            JSONObject jsonObject = new JSONObject(jsonData);
+            // Чтение файла
+            FileInputStream fis = new FileInputStream(file);
+            InputStreamReader isr = new InputStreamReader(fis, "UTF-8");
+            BufferedReader reader = new BufferedReader(isr);
+
+            StringBuilder jsonContent = new StringBuilder();
+            String line;
+            while ((line = reader.readLine()) != null) {
+                jsonContent.append(line);
+            }
+
+            // Закрываем потоки
+            reader.close();
+            isr.close();
+            fis.close();
+
+            // Парсим JSON
+            JSONObject jsonObject = new JSONObject(jsonContent.toString());
 
             // Перебор всех государств в statesList.json
             Iterator<String> keys = jsonObject.keys();

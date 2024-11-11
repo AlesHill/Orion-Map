@@ -12,7 +12,12 @@ import com.example.galacticmape.R;
 
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.Iterator;
 
 public class CorporationDetailsActivity extends AppCompatActivity {
@@ -57,29 +62,31 @@ public class CorporationDetailsActivity extends AppCompatActivity {
         buttonBack.setOnClickListener(v -> finish());
     }
 
+    private String loadJsonFromInternalStorage(String fileName) throws IOException {
+        File file = new File(getFilesDir(), "assets/" + fileName);
+        FileInputStream fis = new FileInputStream(file);
+        InputStreamReader isr = new InputStreamReader(fis, "UTF-8");
+        BufferedReader reader = new BufferedReader(isr);
+
+        StringBuilder jsonContent = new StringBuilder();
+        String line;
+        while ((line = reader.readLine()) != null) {
+            jsonContent.append(line);
+        }
+
+        reader.close();
+        isr.close();
+        fis.close();
+
+        return jsonContent.toString();
+    }
+
     private void loadCorporationDetails(String corporationId) {
         try {
-            Log.d("CorporationDetails", "Получаем данные для корпорации с ID: " + corporationId);
-
-            // Читаем JSON с корпорациями из папки assets
-            InputStream inputStream = getAssets().open("corporationList.json");
-            byte[] buffer = new byte[inputStream.available()];
-            inputStream.read(buffer);
-            inputStream.close();
-
-            String json = new String(buffer, "UTF-8");
+            // Загружаем JSON данные из внутреннего хранилища
+            String json = loadJsonFromInternalStorage("corporationList.json");
             JSONObject corporationsObject = new JSONObject(json);
-
-            Log.d("CorporationDetails", "Содержимое JSON: " + corporationsObject.toString());
-
-            // Пытаемся получить данные о корпорации
-            JSONObject corporation = corporationsObject.optJSONObject(corporationId);
-            if (corporation == null) {
-                Log.e("CorporationDetails", "Не удалось найти корпорацию с ID: " + corporationId);
-                return;
-            }
-
-            Log.d("CorporationDetails", "Содержимое объекта Corporation: " + corporation.toString());
+            JSONObject corporation = corporationsObject.getJSONObject(corporationId);
 
             // Заполняем данные с проверкой на пустоту
             String fullName = getValidString(corporation, "title_name", "Неизвестно");
