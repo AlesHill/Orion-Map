@@ -40,9 +40,9 @@ public class OwnerShipsActivity extends AppCompatActivity {
 
     private void loadStates() {
         try {
-            File file = new File(getFilesDir(), "assets/corporationList.json");
+            File file = new File(getFilesDir(), "assets/statesList.json");
             if (!file.exists()) {
-                Log.e("OwnerActivity", "Файл corporationList.json не найден.");
+                Log.e("OwnerActivity", "Файл statesList.json не найден.");
                 return;
             }
 

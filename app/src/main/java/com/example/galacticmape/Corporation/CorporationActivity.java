@@ -43,7 +43,7 @@ public class CorporationActivity extends AppCompatActivity {
         try {
             File file = new File(getFilesDir(), "assets/corporationList.json");
             if (!file.exists()) {
-                Log.e("OwnerActivity", "Файл statesList.json не найден.");
+                Log.e("OwnerActivity", "Файл corporationList.json не найден.");
                 return;
             }
 
