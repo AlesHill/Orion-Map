@@ -1,1040 +1,1040 @@
 {
     "0d4171fd-6c55-4ae9-a359-fee161eb331c": {
         "id": "0d4171fd-6c55-4ae9-a359-fee161eb331c",
-        "start_marker_id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
-        "end_marker_id": "dc2a85e1-53df-43d7-9526-f0db034c5f1a",
+        "start_marker_id": "(5001, 6914)",
+        "end_marker_id": "(4915, 6918)",
         "magiestral_type": "Второстепенная"
     },
     "1d31c4b2-b365-42b9-8ea8-d665c23e8c0a": {
         "id": "1d31c4b2-b365-42b9-8ea8-d665c23e8c0a",
-        "start_marker_id": "dc2a85e1-53df-43d7-9526-f0db034c5f1a",
-        "end_marker_id": "64dbb2a3-d07c-4867-b227-cc24c10c1b9b",
+        "start_marker_id": "(4915, 6918)",
+        "end_marker_id": "(4868, 6908)",
         "magiestral_type": "Второстепенная"
     },
     "dd241480-3da3-4ac6-b02d-69ce959b9164": {
         "id": "dd241480-3da3-4ac6-b02d-69ce959b9164",
-        "start_marker_id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
-        "end_marker_id": "c823766c-36c0-4da3-b9c2-c0454b5ba03d",
+        "start_marker_id": "(5001, 6914)",
+        "end_marker_id": "(4995, 7047)",
         "magiestral_type": "Второстепенная"
     },
     "191cd1d2-fe29-4702-a731-b920b9a9c598": {
         "id": "191cd1d2-fe29-4702-a731-b920b9a9c598",
-        "start_marker_id": "aba58302-ea54-4308-8e6d-8fddf1fb2cf5",
-        "end_marker_id": "f40d7fa7-4a22-4ae5-9243-5c2ddc8e6065",
+        "start_marker_id": "(5104, 7110)",
+        "end_marker_id": "(5125, 6983)",
         "magiestral_type": "Второстепенная"
     },
     "bbe0dea7-4666-4a23-a8bb-1b3e8918e25f": {
         "id": "bbe0dea7-4666-4a23-a8bb-1b3e8918e25f",
-        "start_marker_id": "aba58302-ea54-4308-8e6d-8fddf1fb2cf5",
-        "end_marker_id": "d483806d-8e84-4919-8bbe-4c2fb0d82357",
+        "start_marker_id": "(5104, 7110)",
+        "end_marker_id": "(5179, 7113)",
         "magiestral_type": "Второстепенная"
     },
     "d47e00c3-acf7-4329-a973-e73bfa4b5710": {
         "id": "d47e00c3-acf7-4329-a973-e73bfa4b5710",
-        "start_marker_id": "11a331b7-7a2d-480b-9fc2-4b8cdd2b1bca",
-        "end_marker_id": "05e6cf10-5d76-4ef6-ac94-a72937649385",
+        "start_marker_id": "(5071, 7185)",
+        "end_marker_id": "(4939, 7172)",
         "magiestral_type": "Второстепенная"
     },
     "6534b603-2bcc-42e4-b0db-432fde21f4ef": {
         "id": "6534b603-2bcc-42e4-b0db-432fde21f4ef",
-        "start_marker_id": "aba58302-ea54-4308-8e6d-8fddf1fb2cf5",
-        "end_marker_id": "11a331b7-7a2d-480b-9fc2-4b8cdd2b1bca",
+        "start_marker_id": "(5104, 7110)",
+        "end_marker_id": "(5071, 7185)",
         "magiestral_type": "Второстепенная"
     },
     "8861e8f0-03a6-4804-89fc-e6f9141ec948": {
         "id": "8861e8f0-03a6-4804-89fc-e6f9141ec948",
-        "start_marker_id": "3b8f284c-79bc-4c1d-b6de-80c472c649cf",
-        "end_marker_id": "0f773bd7-6bd7-42a1-8fd5-21c823c72e5d",
+        "start_marker_id": "(5221, 7183)",
+        "end_marker_id": "(5283, 7095)",
         "magiestral_type": "Второстепенная"
     },
     "a347dd91-e3b7-466f-bf0d-cc14b7042aa8": {
         "id": "a347dd91-e3b7-466f-bf0d-cc14b7042aa8",
-        "start_marker_id": "9f7e4da0-d92e-4ea1-b25f-31be4dcc417a",
-        "end_marker_id": "0f773bd7-6bd7-42a1-8fd5-21c823c72e5d",
+        "start_marker_id": "(5274, 7032)",
+        "end_marker_id": "(5283, 7095)",
         "magiestral_type": "Второстепенная"
     },
     "c4d38323-50a5-4be2-bdb1-a8c4242c8bb8": {
         "id": "c4d38323-50a5-4be2-bdb1-a8c4242c8bb8",
-        "start_marker_id": "f4057451-42f4-48a8-bd63-287906df4e53",
-        "end_marker_id": "3b8f284c-79bc-4c1d-b6de-80c472c649cf",
+        "start_marker_id": "(5166, 7217)",
+        "end_marker_id": "(5221, 7183)",
         "magiestral_type": "Второстепенная"
     },
     "7914ae89-7ea1-45a3-9dfa-3802eb557a3f": {
         "id": "7914ae89-7ea1-45a3-9dfa-3802eb557a3f",
-        "start_marker_id": "ae50d6b3-a57e-49b9-9924-7283ebcc7415",
-        "end_marker_id": "c58e7e9d-595f-410a-99e0-2c6f2627f59b",
+        "start_marker_id": "(5369, 7245)",
+        "end_marker_id": "(5438, 7223)",
         "magiestral_type": "Второстепенная"
     },
     "19909810-cacc-4cdf-9c84-00430650a8d4": {
         "id": "19909810-cacc-4cdf-9c84-00430650a8d4",
-        "start_marker_id": "22c1dcd7-0178-4719-9cf6-cc27b222d896",
-        "end_marker_id": "c58e7e9d-595f-410a-99e0-2c6f2627f59b",
+        "start_marker_id": "(5484, 7285)",
+        "end_marker_id": "(5438, 7223)",
         "magiestral_type": "Второстепенная"
     },
     "cbb97a66-b281-4e0d-982d-069dd9d5bc76": {
         "id": "cbb97a66-b281-4e0d-982d-069dd9d5bc76",
-        "start_marker_id": "22c1dcd7-0178-4719-9cf6-cc27b222d896",
-        "end_marker_id": "cff809f4-d18c-476d-ae77-e13baf3d0b2a",
+        "start_marker_id": "(5484, 7285)",
+        "end_marker_id": "(5548, 7257)",
         "magiestral_type": "Второстепенная"
     },
     "638ccea4-9e91-4bfe-8d59-66cca40f1062": {
         "id": "638ccea4-9e91-4bfe-8d59-66cca40f1062",
-        "start_marker_id": "c58e7e9d-595f-410a-99e0-2c6f2627f59b",
-        "end_marker_id": "cff809f4-d18c-476d-ae77-e13baf3d0b2a",
+        "start_marker_id": "(5438, 7223)",
+        "end_marker_id": "(5548, 7257)",
         "magiestral_type": "Второстепенная"
     },
     "2689e0f7-ab18-4198-921e-201d8139a737": {
         "id": "2689e0f7-ab18-4198-921e-201d8139a737",
-        "start_marker_id": "3678e878-67dd-429b-b487-b6c92842481f",
-        "end_marker_id": "01c99477-9ea3-4523-a3cf-8ae9820e66f2",
+        "start_marker_id": "(5892, 7242)",
+        "end_marker_id": "(5914, 7290)",
         "magiestral_type": "Второстепенная"
     },
     "8d61e4f4-c6a5-4eb3-bd14-f7eb6d96521b": {
         "id": "8d61e4f4-c6a5-4eb3-bd14-f7eb6d96521b",
-        "start_marker_id": "3678e878-67dd-429b-b487-b6c92842481f",
-        "end_marker_id": "6feae935-55f5-43a5-9213-fad0f15d70ff",
+        "start_marker_id": "(5892, 7242)",
+        "end_marker_id": "(5766, 7300)",
         "magiestral_type": "Второстепенная"
     },
     "42dc95c4-cf81-44fb-8a41-506614e2608e": {
         "id": "42dc95c4-cf81-44fb-8a41-506614e2608e",
-        "start_marker_id": "562e5dba-d059-4227-b77d-ebe4948fe2dc",
-        "end_marker_id": "6feae935-55f5-43a5-9213-fad0f15d70ff",
+        "start_marker_id": "(5690, 7298)",
+        "end_marker_id": "(5766, 7300)",
         "magiestral_type": "Второстепенная"
     },
     "2f9c41d2-edf7-4eb7-9af9-a589a1b4aa16": {
         "id": "2f9c41d2-edf7-4eb7-9af9-a589a1b4aa16",
-        "start_marker_id": "6feae935-55f5-43a5-9213-fad0f15d70ff",
-        "end_marker_id": "01c99477-9ea3-4523-a3cf-8ae9820e66f2",
+        "start_marker_id": "(5766, 7300)",
+        "end_marker_id": "(5914, 7290)",
         "magiestral_type": "Второстепенная"
     },
     "c785dcc7-654b-4af8-8063-b48326eba649": {
         "id": "c785dcc7-654b-4af8-8063-b48326eba649",
-        "start_marker_id": "e6d40e32-e98e-4f9b-af2d-917ff93c558d",
-        "end_marker_id": "8ee482a3-acb4-4383-96c5-c8cd5fabd641",
+        "start_marker_id": "(5482, 7136)",
+        "end_marker_id": "(5514, 7018)",
         "magiestral_type": "Второстепенная"
     },
     "2dd79447-a9c1-49a7-b50d-b72f8d89a267": {
         "id": "2dd79447-a9c1-49a7-b50d-b72f8d89a267",
-        "start_marker_id": "e6d40e32-e98e-4f9b-af2d-917ff93c558d",
-        "end_marker_id": "2073ad02-0333-4da0-b3e8-30ec44a94f9a",
+        "start_marker_id": "(5482, 7136)",
+        "end_marker_id": "(5585, 7175)",
         "magiestral_type": "Второстепенная"
     },
     "64f6bd30-913b-4635-a09a-15ec38859f41": {
         "id": "64f6bd30-913b-4635-a09a-15ec38859f41",
-        "start_marker_id": "4982f21e-c5b6-4536-953c-7d48a5aa0cd6",
-        "end_marker_id": "2073ad02-0333-4da0-b3e8-30ec44a94f9a",
+        "start_marker_id": "(5612, 7210)",
+        "end_marker_id": "(5585, 7175)",
         "magiestral_type": "Второстепенная"
     },
     "4d4d2b65-0aad-4077-81ca-b326b4b33b92": {
         "id": "4d4d2b65-0aad-4077-81ca-b326b4b33b92",
-        "start_marker_id": "615f78ca-5d52-40e3-92c8-c752a2338c59",
-        "end_marker_id": "f90b2923-a073-467f-a124-beda8d4a1caa",
+        "start_marker_id": "(5677, 7089)",
+        "end_marker_id": "(5755, 7178)",
         "magiestral_type": "Второстепенная"
     },
     "b1b6b5ba-f627-455f-bd09-7313139de70e": {
         "id": "b1b6b5ba-f627-455f-bd09-7313139de70e",
-        "start_marker_id": "615f78ca-5d52-40e3-92c8-c752a2338c59",
-        "end_marker_id": "85c9d352-afb9-450b-a9c4-d667bd97aa03",
+        "start_marker_id": "(5677, 7089)",
+        "end_marker_id": "(5713, 7218)",
         "magiestral_type": "Второстепенная"
     },
     "4b6f2f85-11e4-483e-a836-23d3e401929f": {
         "id": "4b6f2f85-11e4-483e-a836-23d3e401929f",
-        "start_marker_id": "85c9d352-afb9-450b-a9c4-d667bd97aa03",
-        "end_marker_id": "f90b2923-a073-467f-a124-beda8d4a1caa",
+        "start_marker_id": "(5713, 7218)",
+        "end_marker_id": "(5755, 7178)",
         "magiestral_type": "Второстепенная"
     },
     "cd7130c3-29a9-4949-b190-c9f3a0270d06": {
         "id": "cd7130c3-29a9-4949-b190-c9f3a0270d06",
-        "start_marker_id": "f40d7fa7-4a22-4ae5-9243-5c2ddc8e6065",
-        "end_marker_id": "d483806d-8e84-4919-8bbe-4c2fb0d82357",
+        "start_marker_id": "(5125, 6983)",
+        "end_marker_id": "(5179, 7113)",
         "magiestral_type": "Второстепенная"
     },
     "52fcf8c8-c9b2-4d9d-b63e-2ec9b3300247": {
         "id": "52fcf8c8-c9b2-4d9d-b63e-2ec9b3300247",
-        "start_marker_id": "06f7218a-6a4e-4aa9-9a36-d8de2c42981d",
-        "end_marker_id": "75a2885b-949a-4611-bc44-37f47cd26cdb",
+        "start_marker_id": "(5223, 6902)",
+        "end_marker_id": "(5310, 6830)",
         "magiestral_type": "Второстепенная"
     },
     "6308974b-cc72-483d-a4da-d438700b34b3": {
         "id": "6308974b-cc72-483d-a4da-d438700b34b3",
-        "start_marker_id": "4ad49e2a-a1cf-449b-868d-2838a7298b56",
-        "end_marker_id": "1a366103-3533-448d-864c-96e8586a9e98",
+        "start_marker_id": "(5500, 6907)",
+        "end_marker_id": "(5362, 6963)",
         "magiestral_type": "Второстепенная"
     },
     "1058e6d6-76f2-4918-8ba1-2d26efccb4bc": {
         "id": "1058e6d6-76f2-4918-8ba1-2d26efccb4bc",
-        "start_marker_id": "4ad49e2a-a1cf-449b-868d-2838a7298b56",
-        "end_marker_id": "eccf1737-d9e9-48ac-9cb7-e4557bfcc9a4",
+        "start_marker_id": "(5500, 6907)",
+        "end_marker_id": "(5630, 6950)",
         "magiestral_type": "Второстепенная"
     },
     "58951d6a-0767-4d29-942c-7ad7fc16fcf0": {
         "id": "58951d6a-0767-4d29-942c-7ad7fc16fcf0",
-        "start_marker_id": "d57e494b-9fac-484a-aa9c-52f06c9280bc",
-        "end_marker_id": "155a88e8-656e-4e09-b3ae-5ee7cec8ebb1",
+        "start_marker_id": "(5763, 6983)",
+        "end_marker_id": "(5897, 7004)",
         "magiestral_type": "Второстепенная"
     },
     "bb1fbe21-3cbf-4ca2-a239-1394cf1e8fe9": {
         "id": "bb1fbe21-3cbf-4ca2-a239-1394cf1e8fe9",
-        "start_marker_id": "155a88e8-656e-4e09-b3ae-5ee7cec8ebb1",
-        "end_marker_id": "2a8eaa77-e4f1-4795-b4f4-f87f5b2c0897",
+        "start_marker_id": "(5897, 7004)",
+        "end_marker_id": "(5963, 6999)",
         "magiestral_type": "Второстепенная"
     },
     "89889767-1a5c-4910-a169-e00a7bf2982d": {
         "id": "89889767-1a5c-4910-a169-e00a7bf2982d",
-        "start_marker_id": "941f2ead-b089-4704-aec8-222849d112e5",
-        "end_marker_id": "ae49a1bb-425e-4aec-bfd7-6061ab252cd0",
+        "start_marker_id": "(6050, 7028)",
+        "end_marker_id": "(5955, 7103)",
         "magiestral_type": "Второстепенная"
     },
     "5bbf40d8-0999-4b32-b6f6-0e22f3416a19": {
         "id": "5bbf40d8-0999-4b32-b6f6-0e22f3416a19",
-        "start_marker_id": "ae49a1bb-425e-4aec-bfd7-6061ab252cd0",
-        "end_marker_id": "5c9da81c-6030-4c7f-a591-8e4f78c7c5cc",
+        "start_marker_id": "(5955, 7103)",
+        "end_marker_id": "(5870, 7121)",
         "magiestral_type": "Второстепенная"
     },
     "92e4f9b1-6b83-4ea6-b992-27dc31447c03": {
         "id": "92e4f9b1-6b83-4ea6-b992-27dc31447c03",
-        "start_marker_id": "941f2ead-b089-4704-aec8-222849d112e5",
-        "end_marker_id": "71fe6745-1666-4122-b64c-acd9fd0298d2",
+        "start_marker_id": "(6050, 7028)",
+        "end_marker_id": "(6112, 7026)",
         "magiestral_type": "Второстепенная"
     },
     "fd239bc9-c625-41e3-9a15-e84dc449af64": {
         "id": "fd239bc9-c625-41e3-9a15-e84dc449af64",
-        "start_marker_id": "36ce6927-10bf-4d76-934e-f989969ba7e5",
-        "end_marker_id": "424a2985-37dc-4322-9b4c-16f2e6907c31",
+        "start_marker_id": "(6127, 7170)",
+        "end_marker_id": "(6006, 7193)",
         "magiestral_type": "Второстепенная"
     },
     "b7518f27-8ea2-451b-88f1-5c4c3fc22fd4": {
         "id": "b7518f27-8ea2-451b-88f1-5c4c3fc22fd4",
-        "start_marker_id": "8c2cb23b-f3d4-43f2-8810-e1919eee0a5f",
-        "end_marker_id": "36ce6927-10bf-4d76-934e-f989969ba7e5",
+        "start_marker_id": "(6028, 7261)",
+        "end_marker_id": "(6127, 7170)",
         "magiestral_type": "Второстепенная"
     },
     "27ec9723-233f-4f2b-813e-db5d8c476946": {
         "id": "27ec9723-233f-4f2b-813e-db5d8c476946",
-        "start_marker_id": "8c2cb23b-f3d4-43f2-8810-e1919eee0a5f",
-        "end_marker_id": "ed6fc229-85d5-421c-9398-4127dab8316c",
+        "start_marker_id": "(6028, 7261)",
+        "end_marker_id": "(6121, 7248)",
         "magiestral_type": "Второстепенная"
     },
     "805e3fb9-41a2-44b9-aa4b-d4c2a36b9ab5": {
         "id": "805e3fb9-41a2-44b9-aa4b-d4c2a36b9ab5",
-        "start_marker_id": "36ce6927-10bf-4d76-934e-f989969ba7e5",
-        "end_marker_id": "ed6fc229-85d5-421c-9398-4127dab8316c",
+        "start_marker_id": "(6127, 7170)",
+        "end_marker_id": "(6121, 7248)",
         "magiestral_type": "Второстепенная"
     },
     "f8ed5204-8352-4a39-a577-1094d4c3bba0": {
         "id": "f8ed5204-8352-4a39-a577-1094d4c3bba0",
-        "start_marker_id": "36ce6927-10bf-4d76-934e-f989969ba7e5",
-        "end_marker_id": "5cbd5400-d9e7-4a25-8f6b-e24dd30f93f1",
+        "start_marker_id": "(6127, 7170)",
+        "end_marker_id": "(6194, 7173)",
         "magiestral_type": "Второстепенная"
     },
     "3eea4f9d-e666-490f-a0d2-53150ce24c54": {
         "id": "3eea4f9d-e666-490f-a0d2-53150ce24c54",
-        "start_marker_id": "5cbd5400-d9e7-4a25-8f6b-e24dd30f93f1",
-        "end_marker_id": "ed6fc229-85d5-421c-9398-4127dab8316c",
+        "start_marker_id": "(6194, 7173)",
+        "end_marker_id": "(6121, 7248)",
         "magiestral_type": "Второстепенная"
     },
     "e3e68bf2-9e4b-4d15-96a5-8d95fd32e8f0": {
         "id": "e3e68bf2-9e4b-4d15-96a5-8d95fd32e8f0",
-        "start_marker_id": "1fb6a58d-a271-4cfe-a1a7-e1ace8d7d0dc",
-        "end_marker_id": "5d3cbb72-7e08-4daa-a4e4-a6591a603dfc",
+        "start_marker_id": "(6257, 7142)",
+        "end_marker_id": "(6231, 7214)",
         "magiestral_type": "Второстепенная"
     },
     "127ed2bd-8a5c-4572-8217-f45ee78cd37a": {
         "id": "127ed2bd-8a5c-4572-8217-f45ee78cd37a",
-        "start_marker_id": "10c38dce-bd0c-4545-b20e-efad623a8364",
-        "end_marker_id": "1fb6a58d-a271-4cfe-a1a7-e1ace8d7d0dc",
+        "start_marker_id": "(6286, 7071)",
+        "end_marker_id": "(6257, 7142)",
         "magiestral_type": "Второстепенная"
     },
     "4c8fa41b-8646-4678-bd98-d5518c1c19e1": {
         "id": "4c8fa41b-8646-4678-bd98-d5518c1c19e1",
-        "start_marker_id": "1fb6a58d-a271-4cfe-a1a7-e1ace8d7d0dc",
-        "end_marker_id": "003da515-2e7a-49bc-b541-3b3b7b10ffcf",
+        "start_marker_id": "(6257, 7142)",
+        "end_marker_id": "(6210, 7044)",
         "magiestral_type": "Второстепенная"
     },
     "9ed99050-4835-4dbe-9e98-6bff6bc39533": {
         "id": "9ed99050-4835-4dbe-9e98-6bff6bc39533",
-        "start_marker_id": "003da515-2e7a-49bc-b541-3b3b7b10ffcf",
-        "end_marker_id": "10c38dce-bd0c-4545-b20e-efad623a8364",
+        "start_marker_id": "(6210, 7044)",
+        "end_marker_id": "(6286, 7071)",
         "magiestral_type": "Второстепенная"
     },
     "9d35ca67-d709-4474-b86b-6904996b9fd5": {
         "id": "9d35ca67-d709-4474-b86b-6904996b9fd5",
-        "start_marker_id": "b8a6ce5d-9385-46bd-bc07-4bc2b9871443",
-        "end_marker_id": "e24eb84e-bc57-4d34-b7f9-2e24b3de42b8",
+        "start_marker_id": "(4812, 7013)",
+        "end_marker_id": "(4893, 7023)",
         "magiestral_type": "Второстепенная"
     },
     "eca1054e-2755-4388-9190-340dc26adda6": {
         "id": "eca1054e-2755-4388-9190-340dc26adda6",
-        "start_marker_id": "b8a6ce5d-9385-46bd-bc07-4bc2b9871443",
-        "end_marker_id": "05f68348-0f1a-4115-ab35-b4990e2dabe6",
+        "start_marker_id": "(4812, 7013)",
+        "end_marker_id": "(4800, 7101)",
         "magiestral_type": "Второстепенная"
     },
     "687d57e0-b31a-41e4-bd7b-62a25226de45": {
         "id": "687d57e0-b31a-41e4-bd7b-62a25226de45",
-        "start_marker_id": "e24eb84e-bc57-4d34-b7f9-2e24b3de42b8",
-        "end_marker_id": "05f68348-0f1a-4115-ab35-b4990e2dabe6",
+        "start_marker_id": "(4893, 7023)",
+        "end_marker_id": "(4800, 7101)",
         "magiestral_type": "Второстепенная"
     },
     "7802a3f6-935f-4f19-81ce-25efeed43ff1": {
         "id": "7802a3f6-935f-4f19-81ce-25efeed43ff1",
-        "start_marker_id": "3489c7d7-9696-49ff-b6d1-e18fa477d5b9",
-        "end_marker_id": "b8a6ce5d-9385-46bd-bc07-4bc2b9871443",
+        "start_marker_id": "(4657, 6996)",
+        "end_marker_id": "(4812, 7013)",
         "magiestral_type": "Второстепенная"
     },
     "10bfadf1-404f-48d3-a203-90c4e1854d43": {
         "id": "10bfadf1-404f-48d3-a203-90c4e1854d43",
-        "start_marker_id": "3489c7d7-9696-49ff-b6d1-e18fa477d5b9",
-        "end_marker_id": "b6cde15b-70ab-4405-8a92-48122a16352d",
+        "start_marker_id": "(4657, 6996)",
+        "end_marker_id": "(4673, 7055)",
         "magiestral_type": "Второстепенная"
     },
     "6dbb0228-6594-4cef-8baf-a8ab9c97f0df": {
         "id": "6dbb0228-6594-4cef-8baf-a8ab9c97f0df",
-        "start_marker_id": "b6cde15b-70ab-4405-8a92-48122a16352d",
-        "end_marker_id": "05f68348-0f1a-4115-ab35-b4990e2dabe6",
+        "start_marker_id": "(4673, 7055)",
+        "end_marker_id": "(4800, 7101)",
         "magiestral_type": "Второстепенная"
     },
     "1b4626c9-94c8-424e-8484-a34bf1a9aab8": {
         "id": "1b4626c9-94c8-424e-8484-a34bf1a9aab8",
-        "start_marker_id": "4466fcaa-8a0f-436c-8aed-325340f9e29d",
-        "end_marker_id": "999cde50-af73-4ae7-82f8-2c95b21b371c",
+        "start_marker_id": "(4557, 6935)",
+        "end_marker_id": "(4455, 6887)",
         "magiestral_type": "Второстепенная"
     },
     "7090e741-41c7-4e68-9484-957b55f2d2d4": {
         "id": "7090e741-41c7-4e68-9484-957b55f2d2d4",
-        "start_marker_id": "cd106de9-7ecd-40f1-a9b9-ac78ed112cf0",
-        "end_marker_id": "4466fcaa-8a0f-436c-8aed-325340f9e29d",
+        "start_marker_id": "(4583, 6807)",
+        "end_marker_id": "(4557, 6935)",
         "magiestral_type": "Второстепенная"
     },
     "4dafd533-bc3e-4596-b21a-4618580cd363": {
         "id": "4dafd533-bc3e-4596-b21a-4618580cd363",
-        "start_marker_id": "999cde50-af73-4ae7-82f8-2c95b21b371c",
-        "end_marker_id": "cd106de9-7ecd-40f1-a9b9-ac78ed112cf0",
+        "start_marker_id": "(4455, 6887)",
+        "end_marker_id": "(4583, 6807)",
         "magiestral_type": "Второстепенная"
     },
     "53619e39-bc8b-45de-a0c3-beaefb00118b": {
         "id": "53619e39-bc8b-45de-a0c3-beaefb00118b",
-        "start_marker_id": "00c3c642-794b-4f5a-9454-89279fa1a3ea",
-        "end_marker_id": "372f7f22-1b81-4b99-a274-dd21a70d527d",
+        "start_marker_id": "(4641, 6672)",
+        "end_marker_id": "(4701, 6761)",
         "magiestral_type": "Второстепенная"
     },
     "64189a99-4bd0-4133-9b61-b5e51ceebaea": {
         "id": "64189a99-4bd0-4133-9b61-b5e51ceebaea",
-        "start_marker_id": "8a956998-d128-4f9f-aa93-0a78a5be3340",
-        "end_marker_id": "00c3c642-794b-4f5a-9454-89279fa1a3ea",
+        "start_marker_id": "(4753, 6707)",
+        "end_marker_id": "(4641, 6672)",
         "magiestral_type": "Второстепенная"
     },
     "2e394866-3ba2-4df7-98bc-4c1448b361a4": {
         "id": "2e394866-3ba2-4df7-98bc-4c1448b361a4",
-        "start_marker_id": "8a956998-d128-4f9f-aa93-0a78a5be3340",
-        "end_marker_id": "372f7f22-1b81-4b99-a274-dd21a70d527d",
+        "start_marker_id": "(4753, 6707)",
+        "end_marker_id": "(4701, 6761)",
         "magiestral_type": "Второстепенная"
     },
     "12c57d6c-780b-4d86-a12f-ff06a0c284ce": {
         "id": "12c57d6c-780b-4d86-a12f-ff06a0c284ce",
-        "start_marker_id": "c09fb6a5-e762-4b52-b68a-da800628e887",
-        "end_marker_id": "85b6d9af-8492-44c4-b82a-31eeeaffcbdd",
+        "start_marker_id": "(4836, 6784)",
+        "end_marker_id": "(4725, 6860)",
         "magiestral_type": "Второстепенная"
     },
     "106b55fd-f45a-4dcd-87c0-03f8c52dfa24": {
         "id": "106b55fd-f45a-4dcd-87c0-03f8c52dfa24",
-        "start_marker_id": "85b6d9af-8492-44c4-b82a-31eeeaffcbdd",
-        "end_marker_id": "372f7f22-1b81-4b99-a274-dd21a70d527d",
+        "start_marker_id": "(4725, 6860)",
+        "end_marker_id": "(4701, 6761)",
         "magiestral_type": "Второстепенная"
     },
     "c57f33bd-2488-4310-b84c-4ca47deabb62": {
         "id": "c57f33bd-2488-4310-b84c-4ca47deabb62",
-        "start_marker_id": "372f7f22-1b81-4b99-a274-dd21a70d527d",
-        "end_marker_id": "c09fb6a5-e762-4b52-b68a-da800628e887",
+        "start_marker_id": "(4701, 6761)",
+        "end_marker_id": "(4836, 6784)",
         "magiestral_type": "Второстепенная"
     },
     "0469f0a6-6b3a-4cf6-a4c4-04e315747188": {
         "id": "0469f0a6-6b3a-4cf6-a4c4-04e315747188",
-        "start_marker_id": "8a956998-d128-4f9f-aa93-0a78a5be3340",
-        "end_marker_id": "c09fb6a5-e762-4b52-b68a-da800628e887",
+        "start_marker_id": "(4753, 6707)",
+        "end_marker_id": "(4836, 6784)",
         "magiestral_type": "Второстепенная"
     },
     "9b730535-03bd-4350-83cc-759d0b8f767e": {
         "id": "9b730535-03bd-4350-83cc-759d0b8f767e",
-        "start_marker_id": "5489f894-03e9-4de5-8c9b-60fa5559e401",
-        "end_marker_id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
+        "start_marker_id": "(4994, 6892)",
+        "end_marker_id": "(5001, 6914)",
         "magiestral_type": "Второстепенная"
     },
     "a88f3936-728b-4669-baa5-05a5240fa740": {
         "id": "a88f3936-728b-4669-baa5-05a5240fa740",
-        "start_marker_id": "5b616279-e5a2-425f-a75e-ad4548bd5d10",
-        "end_marker_id": "cd106de9-7ecd-40f1-a9b9-ac78ed112cf0",
+        "start_marker_id": "(4430, 6816)",
+        "end_marker_id": "(4583, 6807)",
         "magiestral_type": "Второстепенная"
     },
     "6fec02dd-9a22-430c-819f-73fac5540f0b": {
         "id": "6fec02dd-9a22-430c-819f-73fac5540f0b",
-        "start_marker_id": "5b616279-e5a2-425f-a75e-ad4548bd5d10",
-        "end_marker_id": "999cde50-af73-4ae7-82f8-2c95b21b371c",
+        "start_marker_id": "(4430, 6816)",
+        "end_marker_id": "(4455, 6887)",
         "magiestral_type": "Второстепенная"
     },
     "faf8cd64-0a8d-46df-ab56-d1ef2aefea58": {
         "id": "faf8cd64-0a8d-46df-ab56-d1ef2aefea58",
-        "start_marker_id": "aa8a52be-5add-4fe2-90f6-455b7733dd24",
-        "end_marker_id": "519c5451-4704-4aa5-a574-722ef2d39d00",
+        "start_marker_id": "(4315, 6764)",
+        "end_marker_id": "(4340, 6829)",
         "magiestral_type": "Второстепенная"
     },
     "66d829a8-78e8-4a4a-b8bd-85041a3dd53a": {
         "id": "66d829a8-78e8-4a4a-b8bd-85041a3dd53a",
-        "start_marker_id": "aa8a52be-5add-4fe2-90f6-455b7733dd24",
-        "end_marker_id": "faf3ac7c-f386-4938-9cd7-61723887c73f",
+        "start_marker_id": "(4315, 6764)",
+        "end_marker_id": "(4440, 6734)",
         "magiestral_type": "Второстепенная"
     },
     "aeab4080-8b76-405b-8fb9-3b23703db944": {
         "id": "aeab4080-8b76-405b-8fb9-3b23703db944",
-        "start_marker_id": "26e8a937-d840-4add-8f64-ea195a4a96b1",
-        "end_marker_id": "7719087d-91cf-4913-a079-ceee3aa72d1a",
+        "start_marker_id": "(4119, 6499)",
+        "end_marker_id": "(4135, 6627)",
         "magiestral_type": "Второстепенная"
     },
     "512ffe98-16ca-458f-be54-2b98eda10f97": {
         "id": "512ffe98-16ca-458f-be54-2b98eda10f97",
-        "start_marker_id": "26e8a937-d840-4add-8f64-ea195a4a96b1",
-        "end_marker_id": "d5601343-4477-40fa-971b-f9e05ec338a8",
+        "start_marker_id": "(4119, 6499)",
+        "end_marker_id": "(4254, 6458)",
         "magiestral_type": "Второстепенная"
     },
     "7c3909c5-bde7-4e10-996e-d33979474fb0": {
         "id": "7c3909c5-bde7-4e10-996e-d33979474fb0",
-        "start_marker_id": "fb76fe7b-1321-45f3-a218-87cd4e692f7c",
-        "end_marker_id": "9482472c-61ab-4560-ac63-c707c8116085",
+        "start_marker_id": "(4223, 6556)",
+        "end_marker_id": "(4312, 6626)",
         "magiestral_type": "Второстепенная"
     },
     "60c50491-65f7-4c5c-96b2-7c9193eb0c78": {
         "id": "60c50491-65f7-4c5c-96b2-7c9193eb0c78",
-        "start_marker_id": "9482472c-61ab-4560-ac63-c707c8116085",
-        "end_marker_id": "886efa9a-acc8-4686-b2ad-f22d0cc21c63",
+        "start_marker_id": "(4312, 6626)",
+        "end_marker_id": "(4221, 6723)",
         "magiestral_type": "Второстепенная"
     },
     "49a7f938-e2d5-4936-a9ff-59eb90a935aa": {
         "id": "49a7f938-e2d5-4936-a9ff-59eb90a935aa",
-        "start_marker_id": "56aad445-76c2-4cd0-bab0-938bae2ab4da",
-        "end_marker_id": "300c20e8-edf8-457a-b166-358239a56509",
+        "start_marker_id": "(4368, 6516)",
+        "end_marker_id": "(4415, 6624)",
         "magiestral_type": "Второстепенная"
     },
     "e02546f0-172b-45d6-ac35-4f632a0d8d2d": {
         "id": "e02546f0-172b-45d6-ac35-4f632a0d8d2d",
-        "start_marker_id": "01ca4c77-0a87-4012-a4e2-856e53e93983",
-        "end_marker_id": "300c20e8-edf8-457a-b166-358239a56509",
+        "start_marker_id": "(4531, 6624)",
+        "end_marker_id": "(4415, 6624)",
         "magiestral_type": "Второстепенная"
     },
     "53eeedce-0c2e-4765-b1c7-e14eb93c0c01": {
         "id": "53eeedce-0c2e-4765-b1c7-e14eb93c0c01",
-        "start_marker_id": "f7aa585b-fa41-4991-993d-0bc178965366",
-        "end_marker_id": "7ec92aa1-f0b2-4569-aa6a-840ace13c9d9",
+        "start_marker_id": "(4991, 6788)",
+        "end_marker_id": "(5105, 6828)",
         "magiestral_type": "Второстепенная"
     },
     "2f59ff29-087d-467b-b0c9-041f959e4f41": {
         "id": "2f59ff29-087d-467b-b0c9-041f959e4f41",
-        "start_marker_id": "b58efa6e-302e-406b-ac62-0c6f4e2bf9e0",
-        "end_marker_id": "c0c05e67-e7d1-4263-b991-acce3b3388dd",
+        "start_marker_id": "(4516, 6514)",
+        "end_marker_id": "(4617, 6567)",
         "magiestral_type": "Второстепенная"
     },
     "b886af4f-863f-406a-8546-6eb9ed578b63": {
         "id": "b886af4f-863f-406a-8546-6eb9ed578b63",
-        "start_marker_id": "04ae8caa-2628-4f9b-b0eb-b1c4cf865533",
-        "end_marker_id": "c0c05e67-e7d1-4263-b991-acce3b3388dd",
+        "start_marker_id": "(4719, 6509)",
+        "end_marker_id": "(4617, 6567)",
         "magiestral_type": "Второстепенная"
     },
     "6281c368-60df-4033-94d8-88e06ed2b626": {
         "id": "6281c368-60df-4033-94d8-88e06ed2b626",
-        "start_marker_id": "b58efa6e-302e-406b-ac62-0c6f4e2bf9e0",
-        "end_marker_id": "5c802076-3e91-469b-94d4-7832845e3675",
+        "start_marker_id": "(4516, 6514)",
+        "end_marker_id": "(4618, 6453)",
         "magiestral_type": "Второстепенная"
     },
     "9685c7ff-db76-41f8-83f5-1fc6c2436760": {
         "id": "9685c7ff-db76-41f8-83f5-1fc6c2436760",
-        "start_marker_id": "5c802076-3e91-469b-94d4-7832845e3675",
-        "end_marker_id": "04ae8caa-2628-4f9b-b0eb-b1c4cf865533",
+        "start_marker_id": "(4618, 6453)",
+        "end_marker_id": "(4719, 6509)",
         "magiestral_type": "Второстепенная"
     },
     "6d36312a-805b-460a-8223-63a9e6fd4356": {
         "id": "6d36312a-805b-460a-8223-63a9e6fd4356",
-        "start_marker_id": "27b50051-2dad-4f57-95a9-67b5335bf000",
-        "end_marker_id": "b795a5b2-ad33-4928-9a1a-14fc634f89d9",
+        "start_marker_id": "(4293, 6385)",
+        "end_marker_id": "(4369, 6444)",
         "magiestral_type": "Второстепенная"
     },
     "c6bcd78f-8c37-47f6-bb49-e4ca5e31e613": {
         "id": "c6bcd78f-8c37-47f6-bb49-e4ca5e31e613",
-        "start_marker_id": "c324dbe4-956a-40bb-8818-b67b6b658857",
-        "end_marker_id": "27b50051-2dad-4f57-95a9-67b5335bf000",
+        "start_marker_id": "(4402, 6373)",
+        "end_marker_id": "(4293, 6385)",
         "magiestral_type": "Второстепенная"
     },
     "9336318c-430d-4027-98da-2e8f50750655": {
         "id": "9336318c-430d-4027-98da-2e8f50750655",
-        "start_marker_id": "b795a5b2-ad33-4928-9a1a-14fc634f89d9",
-        "end_marker_id": "c324dbe4-956a-40bb-8818-b67b6b658857",
+        "start_marker_id": "(4369, 6444)",
+        "end_marker_id": "(4402, 6373)",
         "magiestral_type": "Второстепенная"
     },
     "107c26ec-a0bc-44e3-b88f-d6133b381354": {
         "id": "107c26ec-a0bc-44e3-b88f-d6133b381354",
-        "start_marker_id": "c324dbe4-956a-40bb-8818-b67b6b658857",
-        "end_marker_id": "e57b71fd-d60d-4fc5-8dd6-546f4f95c31c",
+        "start_marker_id": "(4402, 6373)",
+        "end_marker_id": "(4486, 6439)",
         "magiestral_type": "Второстепенная"
     },
     "3c04490f-5ff1-4d98-a185-39279229ec19": {
         "id": "3c04490f-5ff1-4d98-a185-39279229ec19",
-        "start_marker_id": "b795a5b2-ad33-4928-9a1a-14fc634f89d9",
-        "end_marker_id": "e57b71fd-d60d-4fc5-8dd6-546f4f95c31c",
+        "start_marker_id": "(4369, 6444)",
+        "end_marker_id": "(4486, 6439)",
         "magiestral_type": "Второстепенная"
     },
     "b4a7cf13-07bd-4dbd-b113-84845ee1dcf4": {
         "id": "b4a7cf13-07bd-4dbd-b113-84845ee1dcf4",
-        "start_marker_id": "eed4161b-2225-45ae-b94f-c9e7ae434be1",
-        "end_marker_id": "8022bfc7-851e-410a-bf0b-84bfa4db0b9a",
+        "start_marker_id": "(4711, 6583)",
+        "end_marker_id": "(4775, 6589)",
         "magiestral_type": "Второстепенная"
     },
     "d68b4394-4d25-4d5f-91e3-dd0774c595fb": {
         "id": "d68b4394-4d25-4d5f-91e3-dd0774c595fb",
-        "start_marker_id": "aba3033a-a7f4-4e85-b1d1-3186d76d8aa8",
-        "end_marker_id": "8022bfc7-851e-410a-bf0b-84bfa4db0b9a",
+        "start_marker_id": "(4856, 6524)",
+        "end_marker_id": "(4775, 6589)",
         "magiestral_type": "Второстепенная"
     },
     "1831ae8f-7a92-4b86-87c0-e781c191c621": {
         "id": "1831ae8f-7a92-4b86-87c0-e781c191c621",
-        "start_marker_id": "8022bfc7-851e-410a-bf0b-84bfa4db0b9a",
-        "end_marker_id": "fcba7071-8176-401c-8495-5d9eb046827d",
+        "start_marker_id": "(4775, 6589)",
+        "end_marker_id": "(4889, 6646)",
         "magiestral_type": "Второстепенная"
     },
     "b9c66ceb-a2bf-4f57-8649-7027d5169bd7": {
         "id": "b9c66ceb-a2bf-4f57-8649-7027d5169bd7",
-        "start_marker_id": "8022bfc7-851e-410a-bf0b-84bfa4db0b9a",
-        "end_marker_id": "562f6621-5897-4bac-8955-98b5c8a6b8e3",
+        "start_marker_id": "(4775, 6589)",
+        "end_marker_id": "(4906, 6592)",
         "magiestral_type": "Второстепенная"
     },
     "d2d4511e-296d-41ad-89e2-9c54112d9869": {
         "id": "d2d4511e-296d-41ad-89e2-9c54112d9869",
-        "start_marker_id": "562f6621-5897-4bac-8955-98b5c8a6b8e3",
-        "end_marker_id": "fcba7071-8176-401c-8495-5d9eb046827d",
+        "start_marker_id": "(4906, 6592)",
+        "end_marker_id": "(4889, 6646)",
         "magiestral_type": "Второстепенная"
     },
     "c4249e16-774e-4049-ac90-9a87c9497c98": {
         "id": "c4249e16-774e-4049-ac90-9a87c9497c98",
-        "start_marker_id": "aba3033a-a7f4-4e85-b1d1-3186d76d8aa8",
-        "end_marker_id": "562f6621-5897-4bac-8955-98b5c8a6b8e3",
+        "start_marker_id": "(4856, 6524)",
+        "end_marker_id": "(4906, 6592)",
         "magiestral_type": "Второстепенная"
     },
     "fa730173-8847-4b89-b90d-294d3b5f377e": {
         "id": "fa730173-8847-4b89-b90d-294d3b5f377e",
-        "start_marker_id": "c1e7a735-c6af-4e53-af21-f71d719d3a5d",
-        "end_marker_id": "1f15820d-385e-442a-8b22-62e81be812ee",
+        "start_marker_id": "(5007, 6582)",
+        "end_marker_id": "(5026, 6663)",
         "magiestral_type": "Второстепенная"
     },
     "4b15012d-7c53-4ed9-871f-b7be56d3fefc": {
         "id": "4b15012d-7c53-4ed9-871f-b7be56d3fefc",
-        "start_marker_id": "1f15820d-385e-442a-8b22-62e81be812ee",
-        "end_marker_id": "ecdcb0e2-c499-4d76-850c-a715a5ba3cd5",
+        "start_marker_id": "(5026, 6663)",
+        "end_marker_id": "(5075, 6699)",
         "magiestral_type": "Второстепенная"
     },
     "76522572-2f1b-4dbf-9a00-5c1b77ec92ef": {
         "id": "76522572-2f1b-4dbf-9a00-5c1b77ec92ef",
-        "start_marker_id": "7fa8bbf5-99e5-47df-a28d-135154a8ed4c",
-        "end_marker_id": "13e4f790-ea14-49ce-83b2-82313cdf6e52",
+        "start_marker_id": "(5924, 6221)",
+        "end_marker_id": "(5831, 6274)",
         "magiestral_type": "Второстепенная"
     },
     "9d8f38f7-b8d2-4221-9741-2a5db0507dc3": {
         "id": "9d8f38f7-b8d2-4221-9741-2a5db0507dc3",
-        "start_marker_id": "7fa8bbf5-99e5-47df-a28d-135154a8ed4c",
-        "end_marker_id": "a9be57db-0b02-4295-9bda-efcd82bbfdaa",
+        "start_marker_id": "(5924, 6221)",
+        "end_marker_id": "(5914, 6339)",
         "magiestral_type": "Второстепенная"
     },
     "485ddd7c-d8ac-4072-aaa0-5b27b5d8a0e2": {
         "id": "485ddd7c-d8ac-4072-aaa0-5b27b5d8a0e2",
-        "start_marker_id": "13e4f790-ea14-49ce-83b2-82313cdf6e52",
-        "end_marker_id": "a9be57db-0b02-4295-9bda-efcd82bbfdaa",
+        "start_marker_id": "(5831, 6274)",
+        "end_marker_id": "(5914, 6339)",
         "magiestral_type": "Второстепенная"
     },
     "29ffcab4-c535-4168-8c64-333d2eb16c3f": {
         "id": "29ffcab4-c535-4168-8c64-333d2eb16c3f",
-        "start_marker_id": "13e4f790-ea14-49ce-83b2-82313cdf6e52",
-        "end_marker_id": "c699761a-8fda-424d-ac5e-67b63ffd2bf5",
+        "start_marker_id": "(5831, 6274)",
+        "end_marker_id": "(5789, 6357)",
         "magiestral_type": "Второстепенная"
     },
     "854e81c2-e9b6-4a7d-a4a4-c129d54e58e5": {
         "id": "854e81c2-e9b6-4a7d-a4a4-c129d54e58e5",
-        "start_marker_id": "c699761a-8fda-424d-ac5e-67b63ffd2bf5",
-        "end_marker_id": "a9be57db-0b02-4295-9bda-efcd82bbfdaa",
+        "start_marker_id": "(5789, 6357)",
+        "end_marker_id": "(5914, 6339)",
         "magiestral_type": "Второстепенная"
     },
     "35d81fb2-2d06-4cef-a15e-1d0018911174": {
         "id": "35d81fb2-2d06-4cef-a15e-1d0018911174",
-        "start_marker_id": "10b3c72d-62e5-4ffc-b806-a4a0869bbb2a",
-        "end_marker_id": "3f1964f4-c6f4-423a-99c0-1988ef42d9a0",
+        "start_marker_id": "(7030, 6216)",
+        "end_marker_id": "(7091, 6142)",
         "magiestral_type": "Второстепенная"
     },
     "3eab3283-423b-44e7-8f07-665049b3912c": {
         "id": "3eab3283-423b-44e7-8f07-665049b3912c",
-        "start_marker_id": "7df4f1a1-1049-4ac1-88f0-b10835acd4d3",
-        "end_marker_id": "95068f48-1b33-4767-b369-257ac8bdcd9a",
+        "start_marker_id": "(8040, 6441)",
+        "end_marker_id": "(8096, 6291)",
         "magiestral_type": "Второстепенная"
     },
     "69362d18-cdc2-4891-9d99-4bddf231430c": {
         "id": "69362d18-cdc2-4891-9d99-4bddf231430c",
-        "start_marker_id": "30490dc1-7b5e-49f6-99f5-8288493225c8",
-        "end_marker_id": "64dbb2a3-d07c-4867-b227-cc24c10c1b9b",
+        "start_marker_id": "(4838, 6875)",
+        "end_marker_id": "(4868, 6908)",
         "magiestral_type": "Побочная"
     },
     "2788c991-772c-4a2a-848f-953a917f9b16": {
         "id": "2788c991-772c-4a2a-848f-953a917f9b16",
-        "start_marker_id": "f4057451-42f4-48a8-bd63-287906df4e53",
-        "end_marker_id": "c52491e3-9fa2-481d-975e-50c4a179c927",
+        "start_marker_id": "(5166, 7217)",
+        "end_marker_id": "(5142, 7267)",
         "magiestral_type": "Второстепенная"
     },
     "49f5eb4e-9be0-42b7-b553-0813046ffd2d": {
         "id": "49f5eb4e-9be0-42b7-b553-0813046ffd2d",
-        "start_marker_id": "6e7f392f-4d79-4309-bdf7-0eea412099b9",
-        "end_marker_id": "5d3cbb72-7e08-4daa-a4e4-a6591a603dfc",
+        "start_marker_id": "(6319, 7258)",
+        "end_marker_id": "(6231, 7214)",
         "magiestral_type": "Второстепенная"
     },
     "93ed787c-9690-4124-a313-3a6c932bc57f": {
         "id": "93ed787c-9690-4124-a313-3a6c932bc57f",
-        "start_marker_id": "05e6cf10-5d76-4ef6-ac94-a72937649385",
-        "end_marker_id": "05f68348-0f1a-4115-ab35-b4990e2dabe6",
+        "start_marker_id": "(4939, 7172)",
+        "end_marker_id": "(4800, 7101)",
         "magiestral_type": "Второстепенная"
     },
     "cfd1dcfa-3cb1-49d4-ad77-99c7f235e68d": {
         "id": "cfd1dcfa-3cb1-49d4-ad77-99c7f235e68d",
-        "start_marker_id": "86294aa1-ae57-4c84-98c4-715c92140372",
-        "end_marker_id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
+        "start_marker_id": "(4994, 6957)",
+        "end_marker_id": "(5001, 6914)",
         "magiestral_type": "Побочная"
     },
     "bd5cfa30-e198-470f-8b99-42a7d3ed6bd1": {
         "id": "bd5cfa30-e198-470f-8b99-42a7d3ed6bd1",
-        "start_marker_id": "1c5b1691-1255-45ae-851a-6ea5de032b32",
-        "end_marker_id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
+        "start_marker_id": "(4956, 6931)",
+        "end_marker_id": "(5001, 6914)",
         "magiestral_type": "Побочная"
     },
     "2b098ee3-0ef1-40b4-9ba5-52646425441b": {
         "id": "2b098ee3-0ef1-40b4-9ba5-52646425441b",
-        "start_marker_id": "a0d5425b-487b-4c37-932c-2096bb5405cf",
-        "end_marker_id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
+        "start_marker_id": "(5056, 6909)",
+        "end_marker_id": "(5001, 6914)",
         "magiestral_type": "Побочная"
     },
     "f30b5a41-6d66-49af-af32-88fa01457fb3": {
         "id": "f30b5a41-6d66-49af-af32-88fa01457fb3",
-        "start_marker_id": "8429d457-7249-4f98-a4ac-702baf67c447",
-        "end_marker_id": "ebfc0557-aa39-4eeb-a9f5-03334b1c0042",
+        "start_marker_id": "(5058, 6942)",
+        "end_marker_id": "(5001, 6914)",
         "magiestral_type": "Побочная"
     },
     "bb6bb85c-4fb7-441a-993e-759c49b3d772": {
         "id": "bb6bb85c-4fb7-441a-993e-759c49b3d772",
-        "start_marker_id": "64dbb2a3-d07c-4867-b227-cc24c10c1b9b",
-        "end_marker_id": "5eaf3211-a3a3-4e8d-abcf-42de83f18d89",
+        "start_marker_id": "(4868, 6908)",
+        "end_marker_id": "(4853, 6945)",
         "magiestral_type": "Побочная"
     },
     "92414fb9-09e2-4a4c-b96a-fff20bd0d005": {
         "id": "92414fb9-09e2-4a4c-b96a-fff20bd0d005",
-        "start_marker_id": "9c3973ae-4e6e-4c3d-953a-dd88314056f5",
-        "end_marker_id": "64dbb2a3-d07c-4867-b227-cc24c10c1b9b",
+        "start_marker_id": "(4807, 6924)",
+        "end_marker_id": "(4868, 6908)",
         "magiestral_type": "Побочная"
     },
     "bdee6f22-d75f-4516-bb54-f237661c6f01": {
         "id": "bdee6f22-d75f-4516-bb54-f237661c6f01",
-        "start_marker_id": "b1d1ba94-a952-47a9-9835-18c8cced842a",
-        "end_marker_id": "2b48c86b-7889-4433-b2de-c0b187e61b32",
+        "start_marker_id": "(7791, 5147)",
+        "end_marker_id": "(7856, 5110)",
         "magiestral_type": "Главная"
     },
     "e02130e8-fc51-43f3-a0d7-4c5162b649db": {
         "id": "e02130e8-fc51-43f3-a0d7-4c5162b649db",
-        "start_marker_id": "2b48c86b-7889-4433-b2de-c0b187e61b32",
-        "end_marker_id": "0efde602-f8e1-42d1-a5f2-340818926b39",
+        "start_marker_id": "(7856, 5110)",
+        "end_marker_id": "(7924, 5072)",
         "magiestral_type": "Главная"
     },
     "880e9ba9-6a1f-4717-b72c-824e777e14f3": {
         "id": "880e9ba9-6a1f-4717-b72c-824e777e14f3",
-        "start_marker_id": "0efde602-f8e1-42d1-a5f2-340818926b39",
-        "end_marker_id": "cc72ef88-2bd8-460b-9100-d55539601072",
+        "start_marker_id": "(7924, 5072)",
+        "end_marker_id": "(7965, 5034)",
         "magiestral_type": "Главная"
     },
     "62a79a8e-b4b1-4971-b587-fca6566946fa": {
         "id": "62a79a8e-b4b1-4971-b587-fca6566946fa",
-        "start_marker_id": "cc72ef88-2bd8-460b-9100-d55539601072",
-        "end_marker_id": "09eb2867-0f2d-43e6-97c5-46e828b83697",
+        "start_marker_id": "(7965, 5034)",
+        "end_marker_id": "(8027, 4905)",
         "magiestral_type": "Главная"
     },
     "3827ef85-26ca-4cd0-99de-53f3ec58522e": {
         "id": "3827ef85-26ca-4cd0-99de-53f3ec58522e",
-        "start_marker_id": "6125f6fa-1568-4132-94f5-2f4193c17a92",
-        "end_marker_id": "09eb2867-0f2d-43e6-97c5-46e828b83697",
+        "start_marker_id": "(8149, 4824)",
+        "end_marker_id": "(8027, 4905)",
         "magiestral_type": "Главная"
     },
     "e4b960e7-9842-4b82-b1a3-123859a0e356": {
         "id": "e4b960e7-9842-4b82-b1a3-123859a0e356",
-        "start_marker_id": "6125f6fa-1568-4132-94f5-2f4193c17a92",
-        "end_marker_id": "8c43912d-8537-4788-b06c-169051f1fb4c",
+        "start_marker_id": "(8149, 4824)",
+        "end_marker_id": "(8147, 4740)",
         "magiestral_type": "Главная"
     },
     "230a0b98-e227-489f-beb5-be37da228699": {
         "id": "230a0b98-e227-489f-beb5-be37da228699",
-        "start_marker_id": "e929eeb0-8b39-436a-8af2-23e0a865ad14",
-        "end_marker_id": "8c43912d-8537-4788-b06c-169051f1fb4c",
+        "start_marker_id": "(8146, 4653)",
+        "end_marker_id": "(8147, 4740)",
         "magiestral_type": "Главная"
     },
     "619e6ca6-e627-4dfe-b4f9-d536e229111c": {
         "id": "619e6ca6-e627-4dfe-b4f9-d536e229111c",
-        "start_marker_id": "2a9a783e-56e2-42ec-9cea-48928691de88",
-        "end_marker_id": "e929eeb0-8b39-436a-8af2-23e0a865ad14",
+        "start_marker_id": "(8172, 4574)",
+        "end_marker_id": "(8146, 4653)",
         "magiestral_type": "Главная"
     },
     "b08cd6e4-89d7-4ecb-85e0-d49346fcf13a": {
         "id": "b08cd6e4-89d7-4ecb-85e0-d49346fcf13a",
-        "start_marker_id": "2a9a783e-56e2-42ec-9cea-48928691de88",
-        "end_marker_id": "6bc7aad1-fabd-43f4-8f1b-cc45827e2d68",
+        "start_marker_id": "(8172, 4574)",
+        "end_marker_id": "(8244, 4577)",
         "magiestral_type": "Главная"
     },
     "78248699-90ff-4edb-8944-671bcefc1deb": {
         "id": "78248699-90ff-4edb-8944-671bcefc1deb",
-        "start_marker_id": "6bc7aad1-fabd-43f4-8f1b-cc45827e2d68",
-        "end_marker_id": "bb302e2d-40d3-4388-9c75-f61f3301a5aa",
+        "start_marker_id": "(8244, 4577)",
+        "end_marker_id": "(8315, 4633)",
         "magiestral_type": "Главная"
     },
     "eb08b389-8ae4-48ef-965b-d422408305f7": {
         "id": "eb08b389-8ae4-48ef-965b-d422408305f7",
-        "start_marker_id": "51c86c0c-65ed-4868-aa5d-983314d447fc",
-        "end_marker_id": "bb302e2d-40d3-4388-9c75-f61f3301a5aa",
+        "start_marker_id": "(8380, 4568)",
+        "end_marker_id": "(8315, 4633)",
         "magiestral_type": "Главная"
     },
     "ddf52b6b-fc0c-42b2-8cd1-476f33e91cab": {
         "id": "ddf52b6b-fc0c-42b2-8cd1-476f33e91cab",
-        "start_marker_id": "51c86c0c-65ed-4868-aa5d-983314d447fc",
-        "end_marker_id": "05bafe32-fe01-44e3-87f1-a509987c262b",
+        "start_marker_id": "(8380, 4568)",
+        "end_marker_id": "(8376, 4476)",
         "magiestral_type": "Главная"
     },
     "944ccace-df07-413c-a878-72d001178a0e": {
         "id": "944ccace-df07-413c-a878-72d001178a0e",
-        "start_marker_id": "05bafe32-fe01-44e3-87f1-a509987c262b",
-        "end_marker_id": "03c1f78e-ca2d-4ab6-b20e-5be6cc15ee01",
+        "start_marker_id": "(8376, 4476)",
+        "end_marker_id": "(8424, 4439)",
         "magiestral_type": "Главная"
     },
     "fffa45b4-cb87-4e1f-8d9c-4f55ac79561a": {
         "id": "fffa45b4-cb87-4e1f-8d9c-4f55ac79561a",
-        "start_marker_id": "03c1f78e-ca2d-4ab6-b20e-5be6cc15ee01",
-        "end_marker_id": "de54c0ed-0996-4b8c-b305-e816722380a9",
+        "start_marker_id": "(8424, 4439)",
+        "end_marker_id": "(8410, 4329)",
         "magiestral_type": "Главная"
     },
     "f7bd0970-9767-400a-be63-709edcee7d1b": {
         "id": "f7bd0970-9767-400a-be63-709edcee7d1b",
-        "start_marker_id": "de54c0ed-0996-4b8c-b305-e816722380a9",
-        "end_marker_id": "9e65c151-a4bc-43f4-ab7d-3e9f725a7535",
+        "start_marker_id": "(8410, 4329)",
+        "end_marker_id": "(8470, 4244)",
         "magiestral_type": "Главная"
     },
     "c07810f9-04f8-4839-abde-ffbe7f596997": {
         "id": "c07810f9-04f8-4839-abde-ffbe7f596997",
-        "start_marker_id": "9e65c151-a4bc-43f4-ab7d-3e9f725a7535",
-        "end_marker_id": "75c59150-9184-4650-96ed-4a09e5cb2cd9",
+        "start_marker_id": "(8470, 4244)",
+        "end_marker_id": "(8485, 4178)",
         "magiestral_type": "Главная"
     },
     "1ce060d7-e370-4a43-8333-40568a9b04bb": {
         "id": "1ce060d7-e370-4a43-8333-40568a9b04bb",
-        "start_marker_id": "75c59150-9184-4650-96ed-4a09e5cb2cd9",
-        "end_marker_id": "4e11fd61-f883-4b82-b124-75a808cfeaa9",
+        "start_marker_id": "(8485, 4178)",
+        "end_marker_id": "(8557, 4123)",
         "magiestral_type": "Главная"
     },
     "3c44d3ba-974c-4e0e-a69d-4f36339916fc": {
         "id": "3c44d3ba-974c-4e0e-a69d-4f36339916fc",
-        "start_marker_id": "6364af3e-d1a0-44e9-ac4c-f245857071c8",
-        "end_marker_id": "4e11fd61-f883-4b82-b124-75a808cfeaa9",
+        "start_marker_id": "(8589, 4089)",
+        "end_marker_id": "(8557, 4123)",
         "magiestral_type": "Главная"
     },
     "c0be0d9f-c922-4e55-881c-6df0c181156c": {
         "id": "c0be0d9f-c922-4e55-881c-6df0c181156c",
-        "start_marker_id": "6364af3e-d1a0-44e9-ac4c-f245857071c8",
-        "end_marker_id": "8c18853e-27ff-4f8b-a5f4-a7da6130eaa7",
+        "start_marker_id": "(8589, 4089)",
+        "end_marker_id": "(8740, 3967)",
         "magiestral_type": "Главная"
     },
     "a7031837-5112-4968-be66-d265a0df1f06": {
         "id": "a7031837-5112-4968-be66-d265a0df1f06",
-        "start_marker_id": "9a381689-6659-4072-b717-15239ccc4395",
-        "end_marker_id": "09eb2867-0f2d-43e6-97c5-46e828b83697",
+        "start_marker_id": "(7991, 4797)",
+        "end_marker_id": "(8027, 4905)",
         "magiestral_type": "Второстепенная"
     },
     "37aebbd5-e793-45c7-b265-6b73f6a2d47f": {
         "id": "37aebbd5-e793-45c7-b265-6b73f6a2d47f",
-        "start_marker_id": "09eb2867-0f2d-43e6-97c5-46e828b83697",
-        "end_marker_id": "58a33589-8b52-485f-a47f-6e35698800ad",
+        "start_marker_id": "(8027, 4905)",
+        "end_marker_id": "(8145, 4922)",
         "magiestral_type": "Второстепенная"
     },
     "646dc809-337a-4177-9fc9-ca672ed1cd19": {
         "id": "646dc809-337a-4177-9fc9-ca672ed1cd19",
-        "start_marker_id": "6125f6fa-1568-4132-94f5-2f4193c17a92",
-        "end_marker_id": "9a381689-6659-4072-b717-15239ccc4395",
+        "start_marker_id": "(8149, 4824)",
+        "end_marker_id": "(7991, 4797)",
         "magiestral_type": "Второстепенная"
     },
     "7460ec26-ea09-4767-80fe-6cf2efcdbc5a": {
         "id": "7460ec26-ea09-4767-80fe-6cf2efcdbc5a",
-        "start_marker_id": "6125f6fa-1568-4132-94f5-2f4193c17a92",
-        "end_marker_id": "58a33589-8b52-485f-a47f-6e35698800ad",
+        "start_marker_id": "(8149, 4824)",
+        "end_marker_id": "(8145, 4922)",
         "magiestral_type": "Второстепенная"
     },
     "67f3576e-14f7-4e7a-8e22-6fa418e7b32b": {
         "id": "67f3576e-14f7-4e7a-8e22-6fa418e7b32b",
-        "start_marker_id": "50707183-1bf5-482b-bc40-e3722f1c929d",
-        "end_marker_id": "58a33589-8b52-485f-a47f-6e35698800ad",
+        "start_marker_id": "(8237, 4823)",
+        "end_marker_id": "(8145, 4922)",
         "magiestral_type": "Второстепенная"
     },
     "481688f6-0566-46fa-a54f-e821fc998c33": {
         "id": "481688f6-0566-46fa-a54f-e821fc998c33",
-        "start_marker_id": "6125f6fa-1568-4132-94f5-2f4193c17a92",
-        "end_marker_id": "50707183-1bf5-482b-bc40-e3722f1c929d",
+        "start_marker_id": "(8149, 4824)",
+        "end_marker_id": "(8237, 4823)",
         "magiestral_type": "Второстепенная"
     },
     "3b26b085-e2d8-4503-9186-02ae37c8cb3d": {
         "id": "3b26b085-e2d8-4503-9186-02ae37c8cb3d",
-        "start_marker_id": "50707183-1bf5-482b-bc40-e3722f1c929d",
-        "end_marker_id": "8c43912d-8537-4788-b06c-169051f1fb4c",
+        "start_marker_id": "(8237, 4823)",
+        "end_marker_id": "(8147, 4740)",
         "magiestral_type": "Второстепенная"
     },
     "fd996c0e-1b92-496e-bc86-dca66bb5dfbb": {
         "id": "fd996c0e-1b92-496e-bc86-dca66bb5dfbb",
-        "start_marker_id": "9a381689-6659-4072-b717-15239ccc4395",
-        "end_marker_id": "8c43912d-8537-4788-b06c-169051f1fb4c",
+        "start_marker_id": "(7991, 4797)",
+        "end_marker_id": "(8147, 4740)",
         "magiestral_type": "Второстепенная"
     },
     "29890464-d9d9-4684-9db6-e9bd688d482a": {
         "id": "29890464-d9d9-4684-9db6-e9bd688d482a",
-        "start_marker_id": "9a381689-6659-4072-b717-15239ccc4395",
-        "end_marker_id": "2ae1a948-6281-43e0-bd24-624768f5ad47",
+        "start_marker_id": "(7991, 4797)",
+        "end_marker_id": "(8062, 4650)",
         "magiestral_type": "Второстепенная"
     },
     "470dbc60-831c-4753-b31a-3949743fc3c6": {
         "id": "470dbc60-831c-4753-b31a-3949743fc3c6",
-        "start_marker_id": "2ae1a948-6281-43e0-bd24-624768f5ad47",
-        "end_marker_id": "f8419747-1535-4282-b9cd-3bb53eafadac",
+        "start_marker_id": "(8062, 4650)",
+        "end_marker_id": "(8163, 4485)",
         "magiestral_type": "Второстепенная"
     },
     "a36759d1-060f-4d69-8467-203cb2e98ecd": {
         "id": "a36759d1-060f-4d69-8467-203cb2e98ecd",
-        "start_marker_id": "2ae1a948-6281-43e0-bd24-624768f5ad47",
-        "end_marker_id": "e929eeb0-8b39-436a-8af2-23e0a865ad14",
+        "start_marker_id": "(8062, 4650)",
+        "end_marker_id": "(8146, 4653)",
         "magiestral_type": "Второстепенная"
     },
     "7b43400f-2a0f-4fa4-b6aa-9ec02f3399cc": {
         "id": "7b43400f-2a0f-4fa4-b6aa-9ec02f3399cc",
-        "start_marker_id": "513b98ed-7515-43e5-8cf0-85dbfc905596",
-        "end_marker_id": "50707183-1bf5-482b-bc40-e3722f1c929d",
+        "start_marker_id": "(8328, 4729)",
+        "end_marker_id": "(8237, 4823)",
         "magiestral_type": "Второстепенная"
     },
     "fc20a111-a323-46cc-b67f-845cc821dffc": {
         "id": "fc20a111-a323-46cc-b67f-845cc821dffc",
-        "start_marker_id": "bb302e2d-40d3-4388-9c75-f61f3301a5aa",
-        "end_marker_id": "513b98ed-7515-43e5-8cf0-85dbfc905596",
+        "start_marker_id": "(8315, 4633)",
+        "end_marker_id": "(8328, 4729)",
         "magiestral_type": "Второстепенная"
     },
     "b5bc6aea-5c90-4d72-b985-d4e792444eb6": {
         "id": "b5bc6aea-5c90-4d72-b985-d4e792444eb6",
-        "start_marker_id": "bb302e2d-40d3-4388-9c75-f61f3301a5aa",
-        "end_marker_id": "f476689d-fc9c-4ca6-8d07-d81ae985b9f4",
+        "start_marker_id": "(8315, 4633)",
+        "end_marker_id": "(8311, 4531)",
         "magiestral_type": "Второстепенная"
     },
     "ca32e487-32e9-4983-83b9-fab5b8d99f50": {
         "id": "ca32e487-32e9-4983-83b9-fab5b8d99f50",
-        "start_marker_id": "f476689d-fc9c-4ca6-8d07-d81ae985b9f4",
-        "end_marker_id": "05bafe32-fe01-44e3-87f1-a509987c262b",
+        "start_marker_id": "(8311, 4531)",
+        "end_marker_id": "(8376, 4476)",
         "magiestral_type": "Второстепенная"
     },
     "1348b139-d9ac-4060-9aeb-c1009c306362": {
         "id": "1348b139-d9ac-4060-9aeb-c1009c306362",
-        "start_marker_id": "51c86c0c-65ed-4868-aa5d-983314d447fc",
-        "end_marker_id": "e7ffb500-b0f6-4f70-b38d-90dfd8e58465",
+        "start_marker_id": "(8380, 4568)",
+        "end_marker_id": "(8463, 4501)",
         "magiestral_type": "Второстепенная"
     },
     "51bb8bbd-c723-4ec2-88a8-90d9fbbc6820": {
         "id": "51bb8bbd-c723-4ec2-88a8-90d9fbbc6820",
-        "start_marker_id": "03c1f78e-ca2d-4ab6-b20e-5be6cc15ee01",
-        "end_marker_id": "e7ffb500-b0f6-4f70-b38d-90dfd8e58465",
+        "start_marker_id": "(8424, 4439)",
+        "end_marker_id": "(8463, 4501)",
         "magiestral_type": "Второстепенная"
     },
     "fa875fc9-20bd-437c-bbce-e17f4cdb45b3": {
         "id": "fa875fc9-20bd-437c-bbce-e17f4cdb45b3",
-        "start_marker_id": "41241b97-a642-4490-aea4-c9ff9a215230",
-        "end_marker_id": "03c1f78e-ca2d-4ab6-b20e-5be6cc15ee01",
+        "start_marker_id": "(8325, 4374)",
+        "end_marker_id": "(8424, 4439)",
         "magiestral_type": "Второстепенная"
     },
     "f8edbf21-5248-4713-8c74-4ae51842f3e6": {
         "id": "f8edbf21-5248-4713-8c74-4ae51842f3e6",
-        "start_marker_id": "2a9a783e-56e2-42ec-9cea-48928691de88",
-        "end_marker_id": "f8419747-1535-4282-b9cd-3bb53eafadac",
+        "start_marker_id": "(8172, 4574)",
+        "end_marker_id": "(8163, 4485)",
         "magiestral_type": "Второстепенная"
     },
     "b11b41fb-8013-4cb3-a184-b6785f51d744": {
         "id": "b11b41fb-8013-4cb3-a184-b6785f51d744",
-        "start_marker_id": "72aaafc2-93db-4978-baa5-1aefe6843505",
-        "end_marker_id": "f8419747-1535-4282-b9cd-3bb53eafadac",
+        "start_marker_id": "(8227, 4440)",
+        "end_marker_id": "(8163, 4485)",
         "magiestral_type": "Второстепенная"
     },
     "ebc29203-5914-4664-b10a-f98ae0001548": {
         "id": "ebc29203-5914-4664-b10a-f98ae0001548",
-        "start_marker_id": "41241b97-a642-4490-aea4-c9ff9a215230",
-        "end_marker_id": "72aaafc2-93db-4978-baa5-1aefe6843505",
+        "start_marker_id": "(8325, 4374)",
+        "end_marker_id": "(8227, 4440)",
         "magiestral_type": "Второстепенная"
     },
     "85b6203d-0abc-4be5-98a8-9b4d485263f1": {
         "id": "85b6203d-0abc-4be5-98a8-9b4d485263f1",
-        "start_marker_id": "72aaafc2-93db-4978-baa5-1aefe6843505",
-        "end_marker_id": "6bc7aad1-fabd-43f4-8f1b-cc45827e2d68",
+        "start_marker_id": "(8227, 4440)",
+        "end_marker_id": "(8244, 4577)",
         "magiestral_type": "Второстепенная"
     },
     "7cefce33-ea15-4d9b-9e61-ebdc79ad2d67": {
         "id": "7cefce33-ea15-4d9b-9e61-ebdc79ad2d67",
-        "start_marker_id": "f5c8f523-a1ec-45f9-8274-0331e5ce54ec",
-        "end_marker_id": "41241b97-a642-4490-aea4-c9ff9a215230",
+        "start_marker_id": "(8326, 4265)",
+        "end_marker_id": "(8325, 4374)",
         "magiestral_type": "Второстепенная"
     },
     "e4283598-5baa-4edf-9d2d-296f3903d9ec": {
         "id": "e4283598-5baa-4edf-9d2d-296f3903d9ec",
-        "start_marker_id": "f5c8f523-a1ec-45f9-8274-0331e5ce54ec",
-        "end_marker_id": "de54c0ed-0996-4b8c-b305-e816722380a9",
+        "start_marker_id": "(8326, 4265)",
+        "end_marker_id": "(8410, 4329)",
         "magiestral_type": "Второстепенная"
     },
     "3c84b1bb-c921-4f5b-bf8b-4730e8c235e4": {
         "id": "3c84b1bb-c921-4f5b-bf8b-4730e8c235e4",
-        "start_marker_id": "03759072-6a8c-4a05-bf19-734e049450d3",
-        "end_marker_id": "de54c0ed-0996-4b8c-b305-e816722380a9",
+        "start_marker_id": "(8525, 4351)",
+        "end_marker_id": "(8410, 4329)",
         "magiestral_type": "Второстепенная"
     },
     "8f0cf4e8-775b-4ae4-b485-95fe7e5ef6f9": {
         "id": "8f0cf4e8-775b-4ae4-b485-95fe7e5ef6f9",
-        "start_marker_id": "f5c8f523-a1ec-45f9-8274-0331e5ce54ec",
-        "end_marker_id": "9e65c151-a4bc-43f4-ab7d-3e9f725a7535",
+        "start_marker_id": "(8326, 4265)",
+        "end_marker_id": "(8470, 4244)",
         "magiestral_type": "Второстепенная"
     },
     "7454544b-592f-49bf-9bd1-7f83a0ec245e": {
         "id": "7454544b-592f-49bf-9bd1-7f83a0ec245e",
-        "start_marker_id": "9e65c151-a4bc-43f4-ab7d-3e9f725a7535",
-        "end_marker_id": "6cef13f3-790a-46c4-ac9d-978954e1ba9f",
+        "start_marker_id": "(8470, 4244)",
+        "end_marker_id": "(8560, 4201)",
         "magiestral_type": "Второстепенная"
     },
     "27f79a48-0d4b-4b4c-8cf8-8b092ab59723": {
         "id": "27f79a48-0d4b-4b4c-8cf8-8b092ab59723",
-        "start_marker_id": "03759072-6a8c-4a05-bf19-734e049450d3",
-        "end_marker_id": "9e65c151-a4bc-43f4-ab7d-3e9f725a7535",
+        "start_marker_id": "(8525, 4351)",
+        "end_marker_id": "(8470, 4244)",
         "magiestral_type": "Второстепенная"
     },
     "b8af8496-e5e7-4fe3-bc88-be61820495b7": {
         "id": "b8af8496-e5e7-4fe3-bc88-be61820495b7",
-        "start_marker_id": "4e11fd61-f883-4b82-b124-75a808cfeaa9",
-        "end_marker_id": "6cef13f3-790a-46c4-ac9d-978954e1ba9f",
+        "start_marker_id": "(8557, 4123)",
+        "end_marker_id": "(8560, 4201)",
         "magiestral_type": "Второстепенная"
     },
     "2c5102d9-d88c-4eaa-8e88-9a9e42aa2aaf": {
         "id": "2c5102d9-d88c-4eaa-8e88-9a9e42aa2aaf",
-        "start_marker_id": "6cef13f3-790a-46c4-ac9d-978954e1ba9f",
-        "end_marker_id": "03759072-6a8c-4a05-bf19-734e049450d3",
+        "start_marker_id": "(8560, 4201)",
+        "end_marker_id": "(8525, 4351)",
         "magiestral_type": "Второстепенная"
     },
     "04b07fcd-2338-4252-a54f-1e393958e87e": {
         "id": "04b07fcd-2338-4252-a54f-1e393958e87e",
-        "start_marker_id": "03c1f78e-ca2d-4ab6-b20e-5be6cc15ee01",
-        "end_marker_id": "03759072-6a8c-4a05-bf19-734e049450d3",
+        "start_marker_id": "(8424, 4439)",
+        "end_marker_id": "(8525, 4351)",
         "magiestral_type": "Второстепенная"
     },
     "92e1473c-8257-4d63-bad8-1e107aa1c677": {
         "id": "92e1473c-8257-4d63-bad8-1e107aa1c677",
-        "start_marker_id": "10c38dce-bd0c-4545-b20e-efad623a8364",
-        "end_marker_id": "03caabc1-99ea-4f54-a786-502c288710f4",
+        "start_marker_id": "(6286, 7071)",
+        "end_marker_id": "(6313, 7136)",
         "magiestral_type": "Второстепенная"
     },
     "5af2310e-d97b-448a-b2f6-c8c481f4a25e": {
         "id": "5af2310e-d97b-448a-b2f6-c8c481f4a25e",
-        "start_marker_id": "ccb7b156-3099-4977-ad06-2a90e31b4041",
-        "end_marker_id": "5d3cbb72-7e08-4daa-a4e4-a6591a603dfc",
+        "start_marker_id": "(6291, 7195)",
+        "end_marker_id": "(6231, 7214)",
         "magiestral_type": "Второстепенная"
     },
     "78725973-fa64-415c-91c6-f6489ab31e18": {
         "id": "78725973-fa64-415c-91c6-f6489ab31e18",
-        "start_marker_id": "03caabc1-99ea-4f54-a786-502c288710f4",
-        "end_marker_id": "ccb7b156-3099-4977-ad06-2a90e31b4041",
+        "start_marker_id": "(6313, 7136)",
+        "end_marker_id": "(6291, 7195)",
         "magiestral_type": "Второстепенная"
     },
     "b6cbc535-6cba-4ae6-8e0d-67d4ccbd2a49": {
         "id": "b6cbc535-6cba-4ae6-8e0d-67d4ccbd2a49",
-        "start_marker_id": "7e56949b-2753-4c5f-91f7-fb8c81ee45e1",
-        "end_marker_id": "003da515-2e7a-49bc-b541-3b3b7b10ffcf",
+        "start_marker_id": "(6195, 7102)",
+        "end_marker_id": "(6210, 7044)",
         "magiestral_type": "Второстепенная"
     },
     "3a4b2c83-067e-4bad-bf63-d956c20857c0": {
         "id": "3a4b2c83-067e-4bad-bf63-d956c20857c0",
-        "start_marker_id": "1fb6a58d-a271-4cfe-a1a7-e1ace8d7d0dc",
-        "end_marker_id": "7e56949b-2753-4c5f-91f7-fb8c81ee45e1",
+        "start_marker_id": "(6257, 7142)",
+        "end_marker_id": "(6195, 7102)",
         "magiestral_type": "Второстепенная"
     },
     "4ef518c8-6b31-493f-8fa6-7d1c7f69b90d": {
         "id": "4ef518c8-6b31-493f-8fa6-7d1c7f69b90d",
-        "start_marker_id": "1fb6a58d-a271-4cfe-a1a7-e1ace8d7d0dc",
-        "end_marker_id": "03caabc1-99ea-4f54-a786-502c288710f4",
+        "start_marker_id": "(6257, 7142)",
+        "end_marker_id": "(6313, 7136)",
         "magiestral_type": "Второстепенная"
     },
     "edfe467c-acd0-4f1e-b155-aaadd76b4b54": {
         "id": "edfe467c-acd0-4f1e-b155-aaadd76b4b54",
-        "start_marker_id": "1fb6a58d-a271-4cfe-a1a7-e1ace8d7d0dc",
-        "end_marker_id": "ccb7b156-3099-4977-ad06-2a90e31b4041",
+        "start_marker_id": "(6257, 7142)",
+        "end_marker_id": "(6291, 7195)",
         "magiestral_type": "Второстепенная"
     },
     "b81d9ebc-78c5-413d-ad0d-d5b40c642f23": {
         "id": "b81d9ebc-78c5-413d-ad0d-d5b40c642f23",
-        "start_marker_id": "5cbd5400-d9e7-4a25-8f6b-e24dd30f93f1",
-        "end_marker_id": "5d3cbb72-7e08-4daa-a4e4-a6591a603dfc",
+        "start_marker_id": "(6194, 7173)",
+        "end_marker_id": "(6231, 7214)",
         "magiestral_type": "Второстепенная"
     },
     "dff1684c-7e62-484f-9f53-ff9e0d648f9e": {
         "id": "dff1684c-7e62-484f-9f53-ff9e0d648f9e",
-        "start_marker_id": "36ce6927-10bf-4d76-934e-f989969ba7e5",
-        "end_marker_id": "528f8307-057e-4d0f-80f3-cfbe510ee5e1",
+        "start_marker_id": "(6127, 7170)",
+        "end_marker_id": "(6152, 7128)",
         "magiestral_type": "Второстепенная"
     },
     "3619e614-a6b2-4ee4-b83c-d6f2848670f5": {
         "id": "3619e614-a6b2-4ee4-b83c-d6f2848670f5",
-        "start_marker_id": "528f8307-057e-4d0f-80f3-cfbe510ee5e1",
-        "end_marker_id": "7e56949b-2753-4c5f-91f7-fb8c81ee45e1",
+        "start_marker_id": "(6152, 7128)",
+        "end_marker_id": "(6195, 7102)",
         "magiestral_type": "Второстепенная"
     },
     "c7646d56-4c8b-45d9-9e48-61399d3be4fc": {
         "id": "c7646d56-4c8b-45d9-9e48-61399d3be4fc",
-        "start_marker_id": "528f8307-057e-4d0f-80f3-cfbe510ee5e1",
-        "end_marker_id": "5cbd5400-d9e7-4a25-8f6b-e24dd30f93f1",
+        "start_marker_id": "(6152, 7128)",
+        "end_marker_id": "(6194, 7173)",
         "magiestral_type": "Второстепенная"
     },
     "2651890d-75c1-464b-9dfb-26c6026c7013": {
         "id": "2651890d-75c1-464b-9dfb-26c6026c7013",
-        "start_marker_id": "941f2ead-b089-4704-aec8-222849d112e5",
-        "end_marker_id": "afe34410-ab33-4336-817d-e37837cf77c9",
+        "start_marker_id": "(6050, 7028)",
+        "end_marker_id": "(6037, 7083)",
         "magiestral_type": "Второстепенная"
     },
     "9177902e-bb1a-4b8d-85f1-52efb288c8a8": {
         "id": "9177902e-bb1a-4b8d-85f1-52efb288c8a8",
-        "start_marker_id": "42856cdc-f858-4fd0-9281-4f848928f51d",
-        "end_marker_id": "afe34410-ab33-4336-817d-e37837cf77c9",
+        "start_marker_id": "(6104, 7077)",
+        "end_marker_id": "(6037, 7083)",
         "magiestral_type": "Второстепенная"
     },
     "1aba6801-6f10-4836-921e-928886574c2f": {
         "id": "1aba6801-6f10-4836-921e-928886574c2f",
-        "start_marker_id": "941f2ead-b089-4704-aec8-222849d112e5",
-        "end_marker_id": "42856cdc-f858-4fd0-9281-4f848928f51d",
+        "start_marker_id": "(6050, 7028)",
+        "end_marker_id": "(6104, 7077)",
         "magiestral_type": "Второстепенная"
     },
     "c4317446-9f7d-48f6-adb1-e0691e7471e8": {
         "id": "c4317446-9f7d-48f6-adb1-e0691e7471e8",
-        "start_marker_id": "71fe6745-1666-4122-b64c-acd9fd0298d2",
-        "end_marker_id": "42856cdc-f858-4fd0-9281-4f848928f51d",
+        "start_marker_id": "(6112, 7026)",
+        "end_marker_id": "(6104, 7077)",
         "magiestral_type": "Второстепенная"
     },
     "48b18699-da10-40b1-b152-39475aa0e193": {
         "id": "48b18699-da10-40b1-b152-39475aa0e193",
-        "start_marker_id": "003da515-2e7a-49bc-b541-3b3b7b10ffcf",
-        "end_marker_id": "71fe6745-1666-4122-b64c-acd9fd0298d2",
+        "start_marker_id": "(6210, 7044)",
+        "end_marker_id": "(6112, 7026)",
         "magiestral_type": "Второстепенная"
     },
     "420b5b8e-6744-4f96-acec-e3bacd22b6cc": {
         "id": "420b5b8e-6744-4f96-acec-e3bacd22b6cc",
-        "start_marker_id": "42856cdc-f858-4fd0-9281-4f848928f51d",
-        "end_marker_id": "7e56949b-2753-4c5f-91f7-fb8c81ee45e1",
+        "start_marker_id": "(6104, 7077)",
+        "end_marker_id": "(6195, 7102)",
         "magiestral_type": "Второстепенная"
     },
     "946ddce0-f9a9-4e74-9d54-c16b1fc21ef1": {
         "id": "946ddce0-f9a9-4e74-9d54-c16b1fc21ef1",
-        "start_marker_id": "42856cdc-f858-4fd0-9281-4f848928f51d",
-        "end_marker_id": "528f8307-057e-4d0f-80f3-cfbe510ee5e1",
+        "start_marker_id": "(6104, 7077)",
+        "end_marker_id": "(6152, 7128)",
         "magiestral_type": "Второстепенная"
     }
 }
