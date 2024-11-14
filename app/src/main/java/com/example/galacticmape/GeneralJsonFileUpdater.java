@@ -27,6 +27,8 @@ public class GeneralJsonFileUpdater {
         filesToUpdate.put("statesList.json", "statesList.json");
         filesToUpdate.put("timeShipsBuildMod.json", "timeShipsBuildMod.json");
         filesToUpdate.put("variebl.json", "variebl.json");
+        filesToUpdate.put("markersMilkyWay.json", "markersMilkyWay.json");
+        filesToUpdate.put("magiestralsMilkyWay.json", "magiestralsMilkyWay.json");
     }
 
     public GeneralJsonFileUpdater(Context context) {

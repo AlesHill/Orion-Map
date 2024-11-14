@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="600dp"
+    android:height="80dp"
+    android:viewportWidth="600"
+    android:viewportHeight="80"
+    tools:ignore="VectorRaster">
+
+<!-- Внешний контур (обводка) -->
+<path
+    android:fillColor="#2A2A2A"
+    android:pathData="M 0,40 L 48,0 L 552,0 L 600,40 L 552,80 L 48,80 Z" />
+
+<!-- Внутренняя трапеция (заливка) -->
+<path
+    android:fillColor="#858585"
+    android:pathData="M 4,40 L 50,4 L 550,4 L 596,40 L 550,76 L 50,76 Z" />
+
+<path
+    android:fillColor="#646464"
+    android:pathData="M 4,40 L 200,76 L 400,76 L 596,40 L 550,76 L 50,76 Z" />
+
+<path
+    android:fillColor="#A6A6A6"
+    android:pathData="M 4,40 L 150,4 L 450,4 L 596,40 L 550,4 L 50,4 Z" />
+</vector>
