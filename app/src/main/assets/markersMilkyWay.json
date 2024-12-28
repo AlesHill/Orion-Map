@@ -1101,7 +1101,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -1115,7 +1115,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1129,7 +1129,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1143,7 +1143,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -1157,7 +1157,7 @@
         "planet_class": "Аквария",
         "economy": "Пищевая",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1283,7 +1283,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Вторичная",
         "is_capital": false
     },
@@ -1297,7 +1297,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1311,7 +1311,7 @@
         "planet_class": "Терра",
         "economy": "Завод",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1325,7 +1325,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1339,7 +1339,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1353,7 +1353,7 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1367,7 +1367,7 @@
         "planet_class": "Феррия",
         "economy": "Ресурсная",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Третичная",
         "is_capital": false
     },
@@ -1857,7 +1857,7 @@
         "planet_class": "Терра",
         "economy": "Экуменополис",
         "owner": "Сайдония",
-        "corporation_influence": "Великий Легион",
+        "corporation_influence": "",
         "marker_type": "Первичная",
         "is_capital": true
     },
@@ -11659,6 +11659,34 @@
         "owner": "Орион",
         "corporation_influence": "Картана",
         "marker_type": "Вторичная",
+        "is_capital": false
+    },
+    "(5997, 6199)": {
+        "id": "5f074856-27dc-4bef-aca7-f9b3630982d8",
+        "title": "Доминатра",
+        "system": "Система Доминатра",
+        "temperature_class": "умеренная",
+        "state_class": "пустынная",
+        "type_class": "",
+        "planet_class": "Терра",
+        "economy": "Экуменополис",
+        "owner": "Сайдония",
+        "corporation_influence": "",
+        "marker_type": "Третичная",
+        "is_capital": false
+    },
+    "(5748, 6352)": {
+        "id": "ce415f8e-8bae-4186-a1cf-8bfe08cb0cb0",
+        "title": "Эриада",
+        "system": "Система Эриада",
+        "temperature_class": "умеренная",
+        "state_class": "пустынная",
+        "type_class": "",
+        "planet_class": "Терра",
+        "economy": "Отсутствует",
+        "owner": "Сайдония",
+        "corporation_influence": "",
+        "marker_type": "Третичная",
         "is_capital": false
     }
 }
