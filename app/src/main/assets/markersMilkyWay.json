@@ -11686,7 +11686,7 @@
         "economy": "Отсутствует",
         "owner": "Сайдония",
         "corporation_influence": "",
-        "marker_type": "Третичная",
+        "marker_type": "Вторичная",
         "is_capital": false
     },
     "(6040, 6275)": {
@@ -11965,6 +11965,20 @@
         "planet_class": "Терра",
         "economy": "Пищевая",
         "owner": "Нейтралы",
+        "corporation_influence": "",
+        "marker_type": "Вторичная",
+        "is_capital": false
+    },
+    "(5890, 6260)": {
+        "id": "36931412-7792-4784-8bb4-2db6dbc15f3e",
+        "title": "Вандерон",
+        "system": "Система Вандерон ",
+        "temperature_class": "умеренная",
+        "state_class": "экуменополисная",
+        "type_class": "",
+        "planet_class": "Феррия",
+        "economy": "Ресурсная",
+        "owner": "Сайдония",
         "corporation_influence": "",
         "marker_type": "Вторичная",
         "is_capital": false
