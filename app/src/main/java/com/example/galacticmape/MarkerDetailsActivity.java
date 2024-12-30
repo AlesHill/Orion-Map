@@ -22,7 +22,7 @@ public class MarkerDetailsActivity extends AppCompatActivity {
         ownerFullNameMap = new HashMap<>();
         ownerFullNameMap.put("Орион", "Орионская Советская Федеративная Социалистическая Республика");
         ownerFullNameMap.put("Империя", "Великая Галактическая Империя");
-        ownerFullNameMap.put("Сайдония", "Империя Сайдонского Веикоержавия");
+        ownerFullNameMap.put("Сайдония", "Империя Сайдонского Веикодержавия");
         ownerFullNameMap.put("Содружество Звёзд", "Содружество Звёзд");
         ownerFullNameMap.put("Свободный Эйдем", "Свободный Эйдем");
         ownerFullNameMap.put("ССМП", "Соединённые Сектора Млечного Пути");
